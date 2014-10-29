@@ -1,0 +1,701 @@
+2008,AT,Austria,issued,CA,Canada,1,,,21,,RU,Russia
+2008,AT,Austria,issued,CA,Canada,1,30000.0,ML4,50,,BG,Bulgaria
+2008,AT,Austria,issued,CA,Canada,1,1200000.0,ML4,1004,,BG,Bulgaria
+2008,BG,Bulgaria,issued,DZ,Algeria,1,6554219.0,ML11,,,UA,Ukraine
+2008,BG,Bulgaria,issued,DZ,Algeria,1,2622757.0,ML11,,,UA,Ukraine
+2008,CZ,Czech Republic,issued,SK,Slovakia,19,2305663.0,ML3; ML6; ML7; ML10; ML11; ML13; ML15,,,US; GB; FR; ZA; DE; RU; CH; EE; SE,United States; United Kingdom; France; South Africa; Germany; Russia; Switzerland; Estonia; Sweden
+2008,CZ,Czech Republic,issued,GE,Georgia,2,477157.0,ML5; ML15,,,CH,Switzerland
+2008,CZ,Czech Republic,issued,DZ,Algeria,7,7576249.0,ML5; ML6; ML10,,,BG; RU,Bulgaria; Russia
+2008,CZ,Czech Republic,issued,BD,Bangladesh,5,409911.0,ML10; ML11,,,UA; CN,Ukraine; China
+2008,CZ,Czech Republic,issued,TH,Thailand,1,36665.0,ML10,,,RU,Russia
+2008,CZ,Czech Republic,issued,PL,Poland,11,360647.0,ML5; ML6; ML11,,,US; SK; ZA; GB,United States; Slovakia; South Africa; United Kingdom
+2008,CZ,Czech Republic,issued,EG,Egypt,1,673563.0,ML18,,,SK,Slovakia
+2008,CZ,Czech Republic,issued,MY,Malaysia,2,152871.0,ML7,,,SK,Slovakia
+2008,CZ,Czech Republic,issued,US,United States,1,316735.0,ML10,,,RU,Russia
+2008,CZ,Czech Republic,issued,LT,Lithuania,3,60272.0,ML11,,,US,United States
+2008,CZ,Czech Republic,issued,SI,Slovenia,1,10815.0,ML11,,,GB,United Kingdom
+2008,CZ,Czech Republic,issued,IN,India,1,0.0,ML11,,,UA,Ukraine
+2008,DE,Germany,issued,BR,Brazil,2,85722.0,ML11A; ML21A,1 piece; 1 piece,69370.0; 16352.0,CH; CH,Switzerland; Switzerland
+2008,DE,Germany,issued,DZ,Algeria,1,0.0,ML9A; ML10B; ML3A,2 pieces 8 pieces various,0.0; 0.0; 0.0,CH; ZA,Switzerland; South Africa
+2008,DE,Germany,issued,EG,Egypt,1,18400.0,ML11A; ML21A,1 piece 1 piece,18400.0,CH,Switzerland
+2008,DE,Germany,issued,IN,India,1,0.0,ML3A; ML5B,120000 pieces; 36 pieces,0.0; 0.0,IL; IL,Israel; Israel
+2008,DE,Germany,issued,KR,South Korea,8,1468118.0,ML6B; ML8A; ML8A; ML8G; ML8A; ML8G; ML8A; ML11A,1 piece; 3950 kg; 700 kg; 800 kg; 600 kg; 1000 kg; 1500 kg; 2 pieces,181000.0; 545100.0; 104400.0; 124800.0; 49890.0; 156000.0; 105235.0; 201693.0,MX; NO; NO; CN; NO; CN; US; CH,Mexico; Norway; Norway; China; Norway; China; United States; Switzerland
+2008,DE,Germany,issued,TR,Turkey,1,119900.0,ML11A,10 pieces,119900.0,US,United States
+2008,LT,Lithuania,issued,IN,India,2,21011.0,ML22,Training,,,
+2008,LT,Lithuania,issued,AE,United Arab Emirates,2,14144037.0,ML10,"Helicopters Mi-171 (3 units for sale, 1 unit for repairs)",,,
+2008,LT,Lithuania,issued,CO,Colombia,2,502211.0,ML22,Training,,,
+2008,LT,Lithuania,issued,PE,Peru,3,62513.0,ML22,Training,,,
+2008,LT,Lithuania,issued,RO,Romania,1,1299990.0,ML10,Helicopter Mi-8 (1 unit) for repairs,,,
+2008,LT,Lithuania,issued,RU,Russia,1,1273964.0,ML10,56 units of unusable engines TV3-117 for recycling,,,
+2008,LT,Lithuania,issued,LK,Sri Lanka,4,286827.0,ML10,4 units of helicopter reduction gears for repairs,,,
+2008,LT,Lithuania,issued,UA,Ukraine,1,530818.0,ML10,28 units of engines TV3-117 for repairs,,,
+2008,LT,Lithuania,issued,VN,Vietnam,1,57601.0,ML22,Training,,,
+2008,NL,Netherlands,issued,ID,Indonesia,1,625751.0,ML10d,,,IL,Israel
+2008,NL,Netherlands,issued,TR,Turkey,1,2367814.0,ML5b,,,TR,Turkey
+2008,PL,Poland,issued,IQ,Iraq,1,19480916.0,ML10,4 pcs,,LT,Lithuania
+2008,PL,Poland,issued,IQ,Iraq,1,6287862.0,ML6,29 pcs,,UA,Ukraine
+2008,PL,Poland,issued,EG,Egypt,4,383582.0,ML2,,,BG; RS; UA,Bulgaria; Serbia; Ukraine
+2008,PL,Poland,issued,EG,Egypt,2,402531.0,ML3,,,BG,Bulgaria
+2008,PL,Poland,issued,IN,India,3,305443.0,ML6,441 pcs,,UA,Ukraine
+2008,RO,Romania,issued,AR,Argentina,1,32924.0,ML10,2,,ZA,South Africa
+2008,RO,Romania,issued,GE,Georgia,1,112720.0,ML10,5,,ZA,South Africa
+2008,ES,Spain,issued,IQ,Iraq,1,118000.0,ML6,,,UA,Ukraine
+2008,SE,Sweden,issued,FI,Finland,1,,ML8,,,US,United States
+2008,SE,Sweden,issued,JO,Jordan,1,,ML1; ML5,,,AE,United Arab Emirates
+2008,SE,Sweden,issued,GB,United Kingdom,1,,ML2,,,FR,France
+2008,SE,Sweden,issued,PL,Poland,3,,ML5; ML8,,,US,United States
+2008,SE,Sweden,issued,DE; PL,Germany; Poland,1,,ML4,,,DE; PL; NO,Germany; Poland; Norway
+2008,SE,Sweden,issued,DK,Denmark,1,,ML8,,,US,United States
+2008,SE,Sweden,issued,FI,Finland,1,,ML4,,,FR,France
+2008,SE,Sweden,issued,DK; US; GB; NL,Denmark; United States; United Kingdom; Netherlands,1,,ML5,,,DK; US; GB; NL,Denmark; United States; United Kingdom; Netherlands
+2008,GB,United Kingdom,issued,AF,Afghanistan,2,3874686.0,ML1a; ML1d; ML22a,,,KZ,Kazakhstan
+2008,GB,United Kingdom,issued,AF,Afghanistan,4,3637181.0,ML1a; ML3a,,,RO,Romania
+2008,GB,United Kingdom,issued,AF,Afghanistan,2,31800.0,ML1a,,,IQ,Iraq
+2008,GB,United Kingdom,issued,AF,Afghanistan,1,920300.0,ML1a; ML2a,,,RS,Serbia
+2008,GB,United Kingdom,issued,AF,Afghanistan,1,576000.0,ML1a; ML2a,,,ME,Montenegro
+2008,GB,United Kingdom,issued,AF,Afghanistan,2,1081250.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,AF,Afghanistan,1,164735.0,ML6a,,,ZA,South Africa
+2008,GB,United Kingdom,issued,AU,Australia,1,51174.0,ML10e,,,LK,Sri Lanka
+2008,GB,United Kingdom,issued,BB,Barbados,1,25700.0,ML2a,,,US,United States
+2008,GB,United Kingdom,issued,BD,Bangladesh,1,8500.0,ML1a; ML1b,,,TR,Turkey
+2008,GB,United Kingdom,issued,BN,Brunei Darussalam,1,735000.0,ML6a,,,JO,Jordan
+2008,GB,United Kingdom,issued,BR,Brazil,1,257716.0,ML3a,,,IN,India
+2008,GB,United Kingdom,issued,BR,Brazil,1,43207.0,ML11a,,,US,United States
+2008,GB,United Kingdom,issued,CG,Congo,1,253713.0,ML6b,,,DE,Germany
+2008,GB,United Kingdom,issued,CN,China,1,6202.0,ML13c; ML13d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,CN,China,3,313000.0,ML11a; ML4b2; ML11a,,,US,United States
+2008,GB,United Kingdom,issued,CN,China,1,10024.0,ML13d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,CN,China,2,264120.0,ML17h,,,TH,Thailand
+2008,GB,United Kingdom,issued,CO,Colombia,1,60174.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,DK,Denmark,1,60000.0,ML13c,,,ZA,South Africa
+2008,GB,United Kingdom,issued,AE,United Arab Emirates,1,842436.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,AE,United Arab Emirates,1,107071.0,ML1a,,,TR,Turkey
+2008,GB,United Kingdom,issued,GH,Ghana,1,38257.0,ML1a; ML1d; ML22a; ML3a,,,RS,Serbia
+2008,GB,United Kingdom,issued,GH,Ghana,1,14472.0,ML1d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,GH,Ghana,3,2004195.0,ML1a; ML2a; ML3a; ML4a,,,CN; HU; CH,China; Hungary; Switzerland
+2008,GB,United Kingdom,issued,HT,Haiti,1,188760.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,IN,India,2,12273.0,ML13d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,IN,India,1,3309.0,ML10a,,,AU,Australia
+2008,GB,United Kingdom,issued,IE,Ireland,2,18702.0,ML7g,,,DE,Germany
+2008,GB,United Kingdom,issued,IL,Israel,1,187500.0,ML3a,,,RS,Serbia
+2008,GB,United Kingdom,issued,IL,Israel,1,5500.0,ML13d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,IQ,Iraq,5,616177.0,ML1a; ML1d; ML7f1; ML11a; ML21a; ML22a,,,US,United States
+2008,GB,United Kingdom,issued,IQ,Iraq,1,16139471.0,ML3a,,,BG,Bulgaria
+2008,GB,United Kingdom,issued,IQ,Iraq,1,605000.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,IQ,Iraq,3,839233.0,ML6a,,,ZA,South Africa
+2008,GB,United Kingdom,issued,IQ,Iraq,1,365790.0,ML6b,,,AE,United Arab Emirates
+2008,GB,United Kingdom,issued,IQ,Iraq,1,372915.0,ML3a,,,BG,Bulgaria
+2008,GB,United Kingdom,issued,IQ,Iraq,1,176644.0,ML3a,,,RO,Romania
+2008,GB,United Kingdom,issued,IQ,Iraq,3,7631945.0,ML11a; ML3a,,,BG; RO; RS,Bulgaria; Romania; Serbia
+2008,GB,United Kingdom,issued,IQ,Iraq,1,50000.0,ML6b,,,AE,United Arab Emirates
+2008,GB,United Kingdom,issued,IT,Italy,1,423990.0,ML6a,,,JO,Jordan
+2008,GB,United Kingdom,issued,KE,Kenya,1,1162575.0,ML3a,,,RS,Serbia
+2008,GB,United Kingdom,issued,KE,Kenya,1,485859.0,ML3a,,,BR,Brazil
+2008,GB,United Kingdom,issued,KE,Kenya,1,265152.0,ML3a,,,IN,India
+2008,GB,United Kingdom,issued,KW,Kuwait,1,634405.0,ML3a,,,BA,Bosnia & Herzegovina
+2008,GB,United Kingdom,issued,KW,Kuwait,1,69200.0,ML8a21a,,,ZA,South Africa
+2008,GB,United Kingdom,issued,LB,Lebanon,2,193795.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,LY,Libya,1,397597.0,ML1b; ML3a,,,IE,Ireland
+2008,GB,United Kingdom,issued,LY,Libya,1,223680.0,ML2a,,,PK,Pakistan
+2008,GB,United Kingdom,issued,MU,Mauritius,2,66775.0,ML3a,,,BR,Brazil
+2008,GB,United Kingdom,issued,MU,Mauritius,2,109500.0,ML3a; ML4a; ML13d,,,IL,Israel
+2008,GB,United Kingdom,issued,NP,Nepal,1,28800.0,ML15c,,,CA,Canada
+2008,GB,United Kingdom,issued,NG,Nigeria,2,201767.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,NO,Norway,1,55000.0,ML13d,,,CN,China
+2008,GB,United Kingdom,issued,OM,Oman,2,803400.0,ML14,,,BR,Brazil
+2008,GB,United Kingdom,issued,OM,Oman,2,28239.0,ML1a; ML2a,,,US,United States
+2008,GB,United Kingdom,issued,PK,Pakistan,1,220000.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,PK,Pakistan,1,857.0,ML13c; ML13d,,,CN,China
+2008,GB,United Kingdom,issued,QA,Qatar,1,19822.0,ML3a,,,RS,Serbia
+2008,GB,United Kingdom,issued,RU,Russia,2,186014.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,SA,Saudi Arabia,1,79893.0,ML1d,,,KR,South Korea
+2008,GB,United Kingdom,issued,SA,Saudi Arabia,1,162000.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,SG,Singapore,1,0.0,ML17h,,,LK,Sri Lanka
+2008,GB,United Kingdom,issued,SO,Somalia,3,520329.0,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,SD,Sudan,1,100000.0,ML6a,,,ZA,South Africa
+2008,GB,United Kingdom,issued,SD,Sudan,1,181800.0,ML6b,,,AE,United Arab Emirates
+2008,GB,United Kingdom,issued,SE,Sweden,1,111751.0,ML3a,,,BA,Bosnia & Herzegovina
+2008,GB,United Kingdom,issued,TH,Thailand,1,20850.0,ML13d,,,ZA,South Africa
+2008,GB,United Kingdom,issued,TR,Turkey,1,23846.0,ML3a,,,BA,Bosnia & Herzegovina
+2008,GB,United Kingdom,issued,US,United States,2,64138.0,ML3a,,,BA,Bosnia & Herzegovina
+2008,GB,United Kingdom,issued,US,United States,1,572135.0,ML3a,,,RO,Romania
+2008,GB,United Kingdom,issued,US,United States,1,2205000.0,ML1a,,,UA,Ukraine
+2008,GB,United Kingdom,issued,VN,Vietnam,1,25821.0,ML22a; ML7g,,,DE,Germany
+2008,GB,United Kingdom,issued,DE,Germany,1,,ML7g,,,IE,Ireland
+2008,GB,United Kingdom,issued,AF,Afghanistan,1,,ML6b,,,CO; AE,Colombia; United Arab Emirates
+2008,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,1,,ML10c,,,,Not Applicable-licence issued for promotional activity only
+2008,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,1,,ML10c; ML4a,,,US,United States
+2008,GB,United Kingdom,issued,IN,India,1,,ML10d,,,RU,Russia
+2008,GB,United Kingdom,issued,IQ,Iraq,1,,ML11a; ML13a1; ML13a2; ML13b; ML13c; ML13d; ML15a; ML15b; ML15c; ML15d; ML15e; ML15f; ML17b; ML6a; ML6b; ML8c1; ML8c2; ML8c3; ML8c4a; ML8c4b; ML8c4c; ML8c4d; ML8c5a1; ML8c5a2; ML8c5b1; ML8c5b2; ML8c6; ML8c7; ML8c8; ML8c9,,,KW,Kuwait
+2008,GB,United Kingdom,issued,AE,United Arab Emirates,1,,ML10b,,,KR,South Korea
+2008,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,1,,ML10a; ML10b; ML10c; ML10g; ML11a; ML14; ML21b4; ML4a; ML4c,,,SE,Sweden
+2008,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,1,,ML10c; ML14,,,US,United States
+2008,GB,United Kingdom,issued,LK,Sri Lanka,1,,ML10e,,,TW,Taiwan
+2008,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,1,,ML10c; ML12a; ML19a; ML4a; ML4b,,,US,United States
+2008,GB,United Kingdom,issued,CL; FR; DE; GR; ID; MY; PK; PL; ZA,Chile; France; Germany; Greece; Indonesia; Malaysia; Pakistan; Poland; South Africa,1,,ML4a,,,,Not Applicable – licence issued for promotional activity only.
+2008,GB,United Kingdom,issued,AE; RU; ZA,United Arab Emirates; Russia; South Africa,1,,ML10c; ML14; ML15d; ML5b,,,IT,Italy
+2008,GB,United Kingdom,issued,VN,Vietnam,1,,ML4a; ML4b,,,,Worldwide excluding embargoed countries
+2008,GB,United Kingdom,issued,SD,Sudan,1,,ML4a; ML4b1,,,,Worldwide excluding embargoed countries
+2008,GB,United Kingdom,issued,KH,Cambodia,1,,ML4a; ML4b1,,,,Worldwide excluding embargoed countries
+2008,GB,United Kingdom,issued,CG,Congo,1,,ML4a; ML4b1,,,,Worldwide excluding embargoed countries
+2008,GB,United Kingdom,issued,BI,Burundi,1,,ML4a; ML4b1,,,,Worldwide excluding embargoed countries
+2008,GB,United Kingdom,issued,CL,Chile,1,,ML11a; ML13a1; ML13a2; ML13b; ML17c; ML17h; ML1a; ML2a; ML3a; ML4a; ML4b; ML5b; ML6a; ,,,CZ; IL; SG; ZA,Czech Republic; Israel; Singapore; South Africa
+2008,GB,United Kingdom,issued,AF; AO; TD; CG; HT; IL; KE; KW; LB; PK; US,Afghanistan; Angola; Chad; Congo; Haiti; Israel; Kenya; Kuwait; Lebanon; Pakistan; United States,1,,ML6b,,,AF,Afghanistan
+2008,GB,United Kingdom,issued,GE; KE; JO; RU; SN; US; UA,Georgia; Kenya; Jordan; Russia; Senegal; United States; Ukraine,1,,ML13c; ML13d; ML6b,,,IL,Israel
+2008,GB,United Kingdom,issued,AF; TD; AE; IQ; SA; SD,Afghanistan; Chad; United Arab Emirates; Iraq; Saudi Arabia; Sudan,1,,ML6b,,,JO,Jordan
+2008,GB,United Kingdom,issued,IQ; KW,Iraq; Kuwait,1,,ML6b,,,IQ,Iraq
+2008,GB,United Kingdom,refused,IL,Israel,1,1484.0,ML6,8,,,
+2009,BG,Bulgaria,issued,DZ,Algeria,1,10563426.0,ML4,40,,UA,Ukraine
+2009,BG,Bulgaria,issued,KZ,Kazakhstan,1,51992.0,ML1; ML3,2; 4000,,US,United States
+2009,CZ,Czech Republic,issued,PL,Poland,1,8983.0,ML10,,,RU,Russia
+2009,CZ,Czech Republic,issued,BD,Bangladesh,4,396307.0,ML6; ML10,,,BG; SK; UA,Bulgaria; Slovakia; Ukraine
+2009,CZ,Czech Republic,issued,PL,Poland,3,115897.0,ML11,,,US,United States
+2009,CZ,Czech Republic,issued,LV,Latvia,1,238950.0,ML10,,,RO,Romania
+2009,CZ,Czech Republic,issued,EG,Egypt,1,41433.0,ML10,,44201.0,RU,Russia
+2009,CZ,Czech Republic,issued,SK,Slovakia,1,10626.0,ML7,,,US,United States
+2009,DE,Germany,issued,AE,United Arab Emirates,4,9885516.0,ML7,Various,3555516.0,US,United States
+2009,DE,Germany,issued,AE,United Arab Emirates,,,ML11,Various,2330000.0,US,United States
+2009,DE,Germany,issued,AE,United Arab Emirates,,,ML11,Various,2000000.0,US,United States
+2009,DE,Germany,issued,AE,United Arab Emirates,,,ML11,Various,2000000.0,US,United States
+2009,DE,Germany,issued,BR,Brazil,1,745.0,ML7,2 kg,745.0,CN,China
+2009,DE,Germany,issued,HR,Croatia,1,,ML3; ML4,Various,,HR; ME; RS; BA; AL,Croatia; Montenegro; Serbia; Bosnia & Herzegovina; Albania
+2009,DE,Germany,issued,IN,India,1,0.0,ML14,16 pieces,0.0,US,United States
+2009,DE,Germany,issued,KR,South Korea,6,4063796.0,ML4,Various,2700400.0,KR,South Korea
+2009,DE,Germany,issued,KR,South Korea,,,ML8,600 kg,69600.0,NO,Norway
+2009,DE,Germany,issued,KR,South Korea,,,ML8,1400 kg,211400.0,NO,Norway
+2009,DE,Germany,issued,KR,South Korea,,,ML4,Various,412796.0,KR,South Korea
+2009,DE,Germany,issued,KR,South Korea,,,ML8,4400 kg,607200.0,NO,Norway
+2009,DE,Germany,issued,KR,South Korea,,,ML8,400 g,62400.0,CN,China
+2009,DE,Germany,issued,KW,Kuwait,1,157000.0,ML11,12 pieces,157000.0,CH,Switzerland
+2009,DE,Germany,issued,MY,Malaysia,3,5088.0,ML11,1 piece,0.0,US,United States
+2009,DE,Germany,issued,MY,Malaysia,,,ML7,96 pieces,3588.0,US,United States
+2009,DE,Germany,issued,MY,Malaysia,,,ML21,1 piece,1500.0,CH,Switzerland
+2009,DE,Germany,issued,NG,Nigeria,1,58000.0,ML6,1 piece,58000.0,AE,United Arab Emirates
+2009,DE,Germany,issued,PK,Pakistan,2,124816.0,ML11,1 piece,123316.0,CH,Switzerland
+2009,DE,Germany,issued,PK,Pakistan,,,ML21,1 piece,1500.0,CH,Switzerland
+2009,DE,Germany,issued,TH,Thailand,2,355614.0,ML5,Various,333450.0,CH,Switzerland
+2009,DE,Germany,issued,TH,Thailand,,,ML11,Various,22164.0,CH,Switzerland
+2009,DE,Germany,issued,TR,Turkey,1,0.0,ML11,228 pieces,0.0,US,United States
+2009,DE,Germany,issued,IS; CA; TR; AL; HR; AU; CH; JP; NZ; KR; ZA; US; IL; NO,Iceland; Canada; Turkey; Albania; Croatia; Australia; Switzerland; Japan; New Zealand; South Korea; South Africa; United States; Israel; Norway,1,,ML1; ML2; ML4; ML10,Various,,AU; ZA; US; IL; NO,Australia; South Africa; United States; Israel; Norway
+2009,HU,Hungary,issued,EC,Ecuador,1,20000000.0,ML5,—,,UA,Ukraine
+2009,HU,Hungary,issued,KZ,Kazakhstan,1,4000000.0,ML10,—,,EG,Egypt
+2009,HU,Hungary,issued,,Kosovo,1,71670.0,ML14,240000 pcs,71676.0,CA,Canada
+2009,LT,Lithuania,issued,DZ,Algeria,1,55000.0,ML10,Pneumatic rubber tyres for Mi-24 helicopters (100 units),,AE,United Arab Emirates
+2009,LT,Lithuania,issued,CZ,Czech Republic,1,727413.0,ML22,Helicopter Mi-8T (1 unit) for repairs,,RU,Russia
+2009,LT,Lithuania,issued,CZ,Czech Republic,1,16400.0,ML22,Training,,RU,Russia
+2009,LT,Lithuania,issued,IN,India,1,385654.0,ML22,3 units of helicopter reduction gears for repairs,,AZ,Azerbaijan
+2009,LT,Lithuania,issued,IN,India,1,46500.0,ML22,Training,,RU,Russia
+2009,LT,Lithuania,issued,AE,United Arab Emirates,3,3095008.0,ML22,Helicopter Mi-17 (3 units) for repairs,,RU,Russia
+2009,LT,Lithuania,issued,CO,Colombia,8,2127037.0,ML22,Training,,RU,Russia
+2009,LT,Lithuania,issued,PE,Peru,1,25991.0,ML22,Training,,RU,Russia
+2009,LT,Lithuania,issued,RW,Rwanda,1,10279.0,ML22,Training,,RU,Russia
+2009,LT,Lithuania,issued,RU,Russia,1,2120460.0,ML10,Helicopter Mi-171,,AE,United Arab Emirates
+2009,LT,Lithuania,issued,RU,Russia,2,44023.0,ML22,12 units of helicopter engines for repairs,,UA,Ukraine
+2009,LT,Lithuania,issued,VN,Vietnam,2,1000065.0,ML10,Engine (1 unit) and reduction gear (1 unit) for helicopter Mi17/Mi-172.,,RU; UA,Russia; Ukraine
+2009,LT,Lithuania,issued,VN,Vietnam,1,69093.0,ML22,Training,,RU,Russia
+2009,NL,Netherlands,issued,ID,Indonesia,1,625751.0,ML10d,—,,US,United States
+2009,NL,Netherlands,issued,ZA,South Africa,2,28901.0,ML5b,—,,KR,South Korea
+2009,PL,Poland,issued,IQ,Iraq,2,6379900.0,ML6,37 pcs,6379900.0,UA,Ukraine
+2009,PL,Poland,issued,IQ,Iraq,1,117145.0,ML6,1173 pcs,117145.0,UA,Ukraine
+2009,PL,Poland,issued,EG,Egypt,2,154429.0,ML5,695 pcs,154429.0,SR,Suriname
+2009,PL,Poland,issued,EG,Egypt,1,50500.0,ML2,3977 pcs,50500.0,BG,Bulgaria
+2009,PL,Poland,issued,EG,Egypt,1,15300.0,ML4,10000 pcs,15300.0,BG,Bulgaria
+2009,PL,Poland,issued,EG,Egypt,1,219940.0,ML3,5800 pcs,219940.0,BG,Bulgaria
+2009,PL,Poland,issued,IN,India,1,106931.0,ML6,110 pcs,106931.0,UA,Ukraine
+2009,PL,Poland,issued,SI,Slovenia,2,33935.0,ML13,85 pcs,33935.0,FR,France
+2009,PT,Portugal,issued,ST,Sao Tome & Principe,1,104940.0,ML1,70 Pistols 40 Machine Guns,104940.0,IT; TR,Italy; Turkey
+2009,RO,Romania,issued,KW,Kuwait,1,111119.0,ML3,0,0.0,GB,United Kingdom
+2009,RO,Romania,issued,AZ,Azerbaijan,1,4784324.0,ML10,278,2102954.0,ZA,South Africa
+2009,RO,Romania,issued,MK,Macedonia,1,68603.0,ML10,0,0.0,ZA,South Africa
+2009,SE,Sweden,issued,FI,Finland,1,,ML2; ML5; ML14,,,GB,United Kingdom
+2009,SE,Sweden,issued,AE,United Arab Emirates,1,,ML2,,,GB,United Kingdom
+2009,SE,Sweden,issued,FI,Finland,1,,ML8,,,CZ,Czech Republic
+2009,SE,Sweden,issued,IT,Italy,2,,ML4; ML8,,,CZ,Czech Republic
+2009,SE,Sweden,issued,DK,Denmark,1,,ML6,,,US,United States
+2009,GB,United Kingdom,issued,AE,United Arab Emirates,1,354161.6,ML14,,,ZA,South Africa
+2009,GB,United Kingdom,issued,AF,Afghanistan,8,3060525.18,ML3a; ML13d; ML4a; ML13c; ML13d,,,RO; BA; CN; MY; KW,Romania; Bosnia & Herzegovina; China; Malaysia; Kuwait
+2009,GB,United Kingdom,issued,AO,Angola,1,25200.0,ML4b1,,,DE,Germany
+2009,GB,United Kingdom,issued,AU,Australia,1,1076.84,ML7g,,,DE,Germany
+2009,GB,United Kingdom,issued,BR,Brazil,3,969611.88,ML3a,,,ZA,South Africa
+2009,GB,United Kingdom,issued,CA,Canada,1,72000.0,ML7g,,,DE,Germany
+2009,GB,United Kingdom,issued,TD,Chad,1,2602479.6,ML6a,,,IN,India
+2009,GB,United Kingdom,issued,CN,China,21,971118.0,ML11a; ML13c; ML13d,,,ZA,South Africa
+2009,GB,United Kingdom,issued,CG,Congo,1,292800.0,ML6b,,,ZA,South Africa
+2009,GB,United Kingdom,issued,DK,Denmark,1,18759.6,ML13c; ML13d,,,ZA,South Africa
+2009,GB,United Kingdom,issued,GH,Ghana,1,44520.0,ML13d,,,ZA,South Africa
+2009,GB,United Kingdom,issued,GR,Greece,1,3450.0,ML1a,,,TR,Turkey
+2009,GB,United Kingdom,issued,IN,India,7,2935915.5,ML11a; ML13d,,,TW; ZA,Taiwan; South Africa
+2009,GB,United Kingdom,issued,ID,Indonesia,1,16200.0,ML13d,,,ZA,South Africa
+2009,GB,United Kingdom,issued,IQ,Iraq,8,2191132.8,ML1a; ML13c; ML13d; ML6b; ,,,US; AE; JO; CA; DE,United States; United Arab Emirates; Jordan; Canada; Germany
+2009,GB,United Kingdom,issued,IL,Israel,2,205845.02,ML13d; ML4b1; ML6b,,,LB; DE,Lebanon; Germany
+2009,GB,United Kingdom,issued,JO,Jordan,4,2319838.86,ML3a; ML14,,,RS; HR; BA; RO; BR,Serbia; Croatia; Bosnia & Herzegovina; Romania; Brazil
+2009,GB,United Kingdom,issued,KW,Kuwait,1,869516.12,ML3a,,,BA,Bosnia & Herzegovina
+2009,GB,United Kingdom,issued,LB,Lebanon,3,396879.22,ML6a; ML6b,,,DE,Germany
+2009,GB,United Kingdom,issued,LR,Liberia,2,95572.79,ML1a; ML1d; PL5017; ML3a,,,RO; RS,Romania; Serbia
+2009,GB,United Kingdom,issued,MY,Malaysia,1,8520000.0,ML4a,,,BG,Bulgaria
+2009,GB,United Kingdom,issued,MU,Mauritius,2,3120.0,ML13c; ML13d,,,IN,India
+2009,GB,United Kingdom,issued,NL,Netherlands,1,10640.4,ML4a,,,BG,Bulgaria
+2009,GB,United Kingdom,issued,PK,Pakistan,6,1003469.94,ML13d; ML6b; ML13c; ML13d,,,ZA; DE,South Africa; Germany
+2009,GB,United Kingdom,issued,RO,Romania,1,68368.4,ML3a,,,BA,Bosnia & Herzegovina
+2009,GB,United Kingdom,issued,SA,Saudi Arabia,1,95871.5,ML1d,,,KR,South Korea
+2009,GB,United Kingdom,issued,SG,Singapore,1,18468.18,ML17h,,,LK,Sri Lanka
+2009,GB,United Kingdom,issued,SO,Somalia,2,415320.0,ML6b,,,AE,United Arab Emirates
+2009,GB,United Kingdom,issued,ZA,South Africa,1,21240.0,ML1a,,,NA,Namibia
+2009,GB,United Kingdom,issued,SD,Sudan,2,520497.6,ML6b; ML6a,,,ZA; CZ,South Africa; Czech Republic
+2009,GB,United Kingdom,issued,TH,Thailand,2,21720.0,ML13d,,,ZA,South Africa
+2009,GB,United Kingdom,issued,TT,Trinidad & Tobago,2,1006338.24,ML1a; ML3a; ML1d; ML22a; PL5017,,,IL,Israel
+2009,GB,United Kingdom,issued,TR,Turkey,1,251520.0,ML13a2,,,US,United States
+2009,GB,United Kingdom,issued,VN,Vietnam,4,2137396.19,ML21a; ML22; ML7g; PL5017,,,DE,Germany
+2009,GB,United Kingdom,issued,CA; CY; AE; IT; JO; KR; LA; MO; ML; UA; SG; ZA; CH; TH,Canada; Cyprus; United Arab Emirates; Italy; Jordan; South Korea; Lao; Macao; Mali; Ukraine; Singapore; South Africa; Switzerland; Thailand,1,,ML21a; ML22a; ML4a; ML4b,,,IT; ML,Italy; Mali
+2009,GB,United Kingdom,issued,IQ,Iraq,2,,ML1a; ML1d; ML2a; MLc,,,,Worldwide (excluding embargoed countries)
+2009,GB,United Kingdom,issued,; FR; KR; KW; OM,European Union; France; South Korea; Kuwait; Oman,1,,ML10b,,,ZA,South Africa
+2009,BG,Bulgaria,refused,CU,Cuba,1,469830.0,ML11,227,,,
+2009,GB,United Kingdom,refused,CM,Cameroon,1,987374.0,ML3a,987374,,CZ,Czech Republic
+2009,GB,United Kingdom,refused,HN,Honduras,1,517692.0,ML1a,517692,,IL,Israel
+2009,GB,United Kingdom,refused,GT,Guatemala,1,339967.0,ML1a,339967,,IL,Israel
+2009,GB,United Kingdom,refused,KE,Kenya,1,6079605.0,ML1a; ML1d; ML22a; ML2a; NLR; PL5017,6079605,,BA,Bosnia & Herzegovina
+2009,GB,United Kingdom,refused,BD,Bangladesh,1,5356.3,ML1b,"53561,3",,TR,Turkey
+2009,GB,United Kingdom,refused,SL,Sierra Leone,1,3327.3,ML6a,"33276,3",,IT; MY,Italy; Malaysia
+2009,DE,Germany,refused,BR,Brazil,1,10000000.0,ML22,various,10000000.0,,
+2009,DE,Germany,refused,RU,Russia,1,42500.0,ML13,2000 pcs.,42500.0,,
+2010,AT,Austria,issued,CA,Canada,1,11650000.0,ML2,22,0.0,RU,Russia
+2010,AT,Austria,issued,CA,Canada,1,1417860.0,ML1; ML3,13,0.0,RU,Russia
+2010,BG,Bulgaria,issued,DZ,Algeria,2,7767412.0,ML4; ML6,14; 265,3918178.0; 3849234.0,UA,Ukraine
+2010,BG,Bulgaria,issued,NE,Niger,1,126000.0,ML4,3000,126000.0,ME,Montenegro
+2010,CZ,Czech Republic,issued,RU,Russia,2,,,,,,
+2010,CZ,Czech Republic,issued,AZ,Azerbaijan,1,1814262.0,ML10,Parts of airplane L-39C,855895.0,CZ,Czech Republic
+2010,CZ,Czech Republic,issued,SK,Slovakia,4,,,,,,
+2010,CZ,Czech Republic,issued,PL,Poland,3,,,"Spare parts of tank T-72;; Submachine-gun AKM cal. 7,62 mm",,,
+2010,CZ,Czech Republic,issued,BG,Bulgaria,1,154844.0,ML10,Rotor blades,0.0,RU,Russia
+2010,CZ,Czech Republic,issued,LK,Sri Lanka,10,11146.0,ML10,Spare parts,9438.0,RU,Russia
+2010,CZ,Czech Republic,issued,TH,Thailand,2,89848.0,ML10,Spare parts,6846.0,GB; DE,United Kingdom; Germany
+2010,CZ,Czech Republic,issued,ET,Ethiopia,3,,,Spare parts; Spare parts,,,
+2010,CZ,Czech Republic,issued,US,United States,1,13426.0,,Spare parts,12730.0,SK,Slovakia
+2010,CZ,Czech Republic,issued,DZ,Algeria,6,787229.0,ML6; ML10,Spare parts,312792.0,RU; UA,Russia; Ukraine
+2010,CZ,Czech Republic,issued,EG,Egypt,3,,,,,,
+2010,CZ,Czech Republic,issued,VN,Vietnam,2,,,,,,
+2010,CZ,Czech Republic,issued,GE,Georgia,1,392691.0,ML5,Laser rangefinders,341462.0,CH,Switzerland
+2010,CZ,Czech Republic,issued,IN,India,,26344.0,ML6,Spare parts,0.0,UA,Ukraine
+2010,CZ,Czech Republic,issued,BD,Bangladesh,2,81508.0,ML10,Spare parts,54321.0,RU; UA,Russia; Ukraine
+2010,CZ,Czech Republic,issued,DE,Germany,1,3812.0,ML1,Spare parts,3812.0,FR,France
+2010,EE,Estonia,issued,FR,France,2,21690.0,ML10,110,21690.0,CZ,Czech Republic
+2010,EE,Estonia,issued,NL,Netherlands,1,5025.0,ML10,30,5025.0,CZ,Czech Republic
+2010,DE,Germany,issued,AF,Afghanistan,1,890352.0,ML17,1 piece,890352.0,ZA,South Africa
+2010,DE,Germany,issued,CA,Canada,2,890352.0,ML2; ML17,various; 1 piece,0.0; 890352.0,NO; ZA,Norway; South Africa
+2010,DE,Germany,issued,CA,Canada,1,,ML3,32000 pieces,,CA; NO,Canada; Norway
+2010,DE,Germany,issued,CL,Chile,1,154712.0,ML11,2 pieces,154712.0,CH,Switzerland
+2010,DE,Germany,issued,EG,Egypt,2,57403.0,ML21; ML8,1 piece; 300 kg,1500.0; 55903.0,CH; NO,Switzerland; Norway
+2010,DE,Germany,issued,IN,India,1,14000.0,ML14,8 pieces,14000.0,US,United States
+2010,DE,Germany,issued,IN; ZA,India; South Africa,1,,ML3; ML4,850000 pieces; 240 pieces,,IN; ZA,India; South Africa
+2010,DE,Germany,issued,IL,Israel,1,6375.0,ML5,25 parts,6375.0,US,United States
+2010,DE,Germany,issued,KR,South Korea,6,2937940.0,ML13; ML8; ML8; ML8; ML8; ML4,1 piece; 1500 kg; 2300 kg; 3200 kg; 250 kg; various,27610.0; 207000.0; 347300.0; 441600.0; 52200.0; 1862230.0,CH; NO; NO; NO; NO; IL,Switzerland; Norway; Norway; Norway; Norway; Israel
+2010,DE,Germany,issued,MX,Mexico,1,17000.0,ML18,1 set,17000.0,US,United States
+2010,DE,Germany,issued,NZ,New Zealand,1,55000000.0,ML9,2 sets,55000000.0,CA,Canada
+2010,DE,Germany,issued,NO,Norway,1,71500.0,ML3,various,71500.0,CH,Switzerland
+2010,DE,Germany,issued,SG,Singapore,1,,ML3,68000 pieces,,CH,Switzerland
+2010,DE,Germany,issued,ZA,South Africa,3,38720.0,ML6; ML6; ML6,16 pieces; 2 pieces; 2 sets,19360.0; 1360.0; 18000.0,IL; IL; IL,Israel; Israel; Israel
+2010,DE,Germany,issued,AU; CA; JP; NZ; NO; CH; US,Australia; Canada; Japan; New Zealand; Norway; Switzerland; United States,1,,ML3; ML4,various,,CA; NO; ZA; CH; US,Canada; Norway; South Africa; Switzerland; United States
+2010,LT,Lithuania,issued,DZ,Algeria,1,55000.0,ML10.a,Pneumatic rubber tyres for Mi-24 helicopters (100 units),,AE,United Arab Emirates
+2010,LT,Lithuania,issued,CZ,Czech Republic,1,13489.0,ML22,Training,,RU,Russia
+2010,LT,Lithuania,issued,DJ,Djibouti,1,160037.0,ML10.d,2 units of helicopter engines for repairs,,AZ,Azerbaijan
+2010,LT,Lithuania,issued,IN,India,3,58409.0,ML22,Training,,RU,Russia
+2010,LT,Lithuania,issued,CO,Colombia,7,819588.0,ML22,Training,,RU,Russia
+2010,LT,Lithuania,issued,PE,Peru,1,29721.0,ML22,Training,,RU,Russia
+2010,LT,Lithuania,issued,US,United States,1,207432.0,ML22,Training,,RU,Russia
+2010,LT,Lithuania,issued,VN,Vietnam,1,173953.0,ML10,2 units of helicopter engines for repairs,,AZ,Azerbaijan
+2010,LT,Lithuania,issued,VN,Vietnam,4,1252461.0,ML10,7 units of helicopter engines for repairs,,UA,Ukraine
+2010,LT,Lithuania,issued,VN,Vietnam,2,94500.0,ML22,Training,,RU,Russia
+2010,PL,Poland,issued,EG,Egypt,6,,,,,,
+2010,PL,Poland,issued,BG,Bulgaria,1,90000.0,ML5,,90000.0,SK,Slovakia
+2010,PL,Poland,issued,IN,India,1,56888.8,ML2,,56888.8,UA,Ukraine
+2010,PL,Poland,issued,IQ,Iraq,2,,,,,,
+2010,PT,Portugal,issued,MY,Malaysia,1,5300.0,ML10,1,5300.0,US,United States
+2010,PT,Portugal,issued,ID,Indonesia,1,23650.0,ML10,1,23650.0,US,United States
+2010,PT,Portugal,issued,CV,Cape Verde,1,85000.0,ML1; ML3,ML1: 40 ML3: 15000,85000.0,US,United States
+2010,RO,Romania,issued,HR,Croatia,1,26584.0,ML15,20,26584.0,US,United States
+2010,RO,Romania,issued,TR,Turkey,1,273818.0,ML15,5,273818.0,DE,Germany
+2010,SI,Slovenia,issued,EG,Egypt,1,492785.0,ML6,148 pcs,145864.0,RS,Serbia
+2010,SE,Sweden,issued,FI,Finland,1,316780.0,ML10,,,US,United States
+2010,SE,Sweden,issued,FI,Finland,1,108284.0,ML14,,,CZ,Czech Republic
+2010,SE,Sweden,issued,FR,France,2,552850.0,ML5,,,GB,United Kingdom
+2010,SE,Sweden,issued,FR,France,2,109082.0,ML8; ML14,,,FI,Finland
+2010,SE,Sweden,issued,DE,Germany,2,9568564.0,ML5,,,GB,United Kingdom
+2010,SE,Sweden,issued,KR,South Korea,1,297689.0,ML5,,,GB,United Kingdom
+2010,SE,Sweden,issued,ES,Spain,2,366795.0,ML5,,,GB,United Kingdom
+2010,SE,Sweden,issued,US,United States,1,212635.0,ML5,,,GB,United Kingdom
+2010,SI,Slovenia,refused,TM,Turkmenistan,1,34800.0,ML3,120000 pcs,34800.0,BG,Bulgaria
+2011,AT,Austria,issued,CA,Canada,1,11650000.0,ML2,22,,RU,Russia
+2011,AT,Austria,issued,CA,Canada,1,1417860.0,ML1; ML3,13,,RU,Russia
+2011,BG,Bulgaria,issued,TH,Thailand,1,1697.04,ML3,50,,RS,Serbia
+2011,BG,Bulgaria,issued,DZ,Algeria,1,1274946.21,ML6,78,1274946.21,UA,Ukraine
+2011,CZ,Czech Republic,issued,LV,Latvia,1,24089.0,10,14 optical sight Trijicon TA648-50G,24814.0,US,United States
+2011,CZ,Czech Republic,issued,EE,Estonia,1,11300.0,10,0 optical sight Trijicon RMR in the kit assembly RM33,0.0,US,United States
+2011,CZ,Czech Republic,issued,BG,Bulgaria,1,563735.0,12,"6300 machine guns, AK-47 type",436712.0,RO,Romania
+2011,CZ,Czech Republic,issued,SK,Slovakia,1,777798.0,41,0 122 mm M-21 rocket GRADA,0.0,HU,Hungary
+2011,CZ,Czech Republic,issued,TH,Thailand,1,121650.0,100,"36 life jackets of various sizes for pilots of the L-39, including complaints and warranty repairs",107793.0,GB,United Kingdom
+2011,CZ,Czech Republic,issued,ET,Ethiopia,1,94050.0,100,1963 spare parts for aerospace,99895.0,RU,Russia
+2011,CZ,Czech Republic,issued,TH,Thailand,1,108192.0,102,0 5x5 display monitor,0.0,IL,Israel
+2011,CZ,Czech Republic,issued,TH,Thailand,1,19408.0,102,2 Radioisotopes detector sensor P / N 329006 IA2-L-39ZA,19408.0,US,United States
+2011,CZ,Czech Republic,issued,BD,Bangladesh,1,181242.0,102,466 spare parts for aircraft An-32,146838.0,UA,Ukraine
+2011,CZ,Czech Republic,issued,BD,Bangladesh,1,16526.0,102,31 tires for aircraft An-32,13939.0,RU,Russia
+2011,CZ,Czech Republic,issued,LV,Latvia,1,0.0,109,"36 spare parts and Rescue pilot ejection system, L-39 after repairs and warranty claims",0.0,RO,Romania
+2011,CZ,Czech Republic,issued,PL,Poland,1,189872.0,110,"0 radar receiver / transmitter HG7210AC02 and accessories, including repairs and warranty claims",0.0,US,United States
+2011,CZ,Czech Republic,issued,PL,Poland,1,359298.0,110,5 AN/APX-119 IFF transponder with accessories,246988.0,US,United States
+2011,CZ,Czech Republic,issued,PL,Poland,1,21980.0,110,1 test kit XPDR / INTERR / IFF / TCAS P / N T-47G,18995.0,GB,United Kingdom
+2011,CZ,Czech Republic,issued,LK,Sri Lanka,1,20951.0,110,2 devices and equipment for aircraft Mig-23/27,2563.0,RU,Russia
+2011,CZ,Czech Republic,issued,SK,Slovakia,1,2897.0,110,1 additional set of kit for removing explosive charge type KATANA,2897.0,DE,Germany
+2011,CZ,Czech Republic,issued,MN,Mongolia,1,3985.0,110,1 interfering electronic devices-Block Phone nr. EXP 400764,1560.0,IL,Israel
+2011,CZ,Czech Republic,issued,MN,Mongolia,1,9319.0,110,1 reconnaissance camera system Eyeball R1,9319.0,IL,Israel
+2011,CZ,Czech Republic,issued,EG,Egypt,1,311243.0,110,0 spare parts for radar equipment,0.0,UA,Ukraine
+2011,CZ,Czech Republic,issued,HR,Croatia,1,4968.0,119,1 RT ARC 1818 Radio stations after post-warranty repair,5633.0,US,United States
+2011,CZ,Czech Republic,issued,PL,Poland,1,5221.0,119,0 correction control unit P / N 4077156-0504 S / N 0378-BI,0.0,US,United States
+2011,EE,Estonia,issued,FR,France,1,379.5,ML10,2 pc,379.5,CZ,Czech Republic
+2011,DE,Germany,issued,AF,Afghanistan,1,1780704.0,ML17,2 pieces,1780704.0,ZA,South Africa
+2011,DE,Germany,issued,BH,Bahrain,1,,ML9,4,,SG,Singapore
+2011,DE,Germany,issued,BR,Brazil,2,391780.0,ML11; ML21,4 pieces; 1 piece,390280.0; 1500.0,CH; CH,Switzerland; Switzerland
+2011,DE,Germany,issued,CA,Canada,2,2.0,ML4; ML11,1 system; 1 system,1.0; 1.0,US; ZA,United States; South Africa
+2011,DE,Germany,issued,KH,Cambodia,1,110000.0,ML13,500 pair,110000.0,HK,Hong Kong
+2011,DE,Germany,issued,DO,Dominican Republic,1,77356.0,ML11,1 piece,77356.0,CH,Switzerland
+2011,DE,Germany,issued,GH,Ghana,1,,ML2,2,,ZA,South Africa
+2011,DE,Germany,issued,IN,India,1,0.0,ML5,various,0.0,RU,Russia
+2011,DE,Germany,issued,KE,Kenya,1,222720.0,ML6,2 pieces,222720.0,US,United States
+2011,DE,Germany,issued,KR,South Korea,3,469560.0,ML8,3120 kg,469560.0,NO,Norway
+2011,DE,Germany,issued,MY,Malaysia,1,1500.0,ML21,1 piece,1500.0,CH,Switzerland
+2011,DE,Germany,issued,MA,Morocco,1,550000.0,ML11,1 set,550000.0,CH,Switzerland
+2011,DE,Germany,issued,NZ,New Zealand,1,1706774.0,ML11,various,1706774.0,CA,Canada
+2011,DE,Germany,issued,NG,Nigeria,1,285200.0,ML6,1 piece,285200.0,US,United States
+2011,DE,Germany,issued,PK,Pakistan,2,205000.0,ML11; ML21; ML21,1 piece; 1 piece,203500.0; 1500.0,CH; CH,Switzerland; Switzerland
+2011,DE,Germany,issued,RU,Russia,1,676415.0,ML11,3 pieces,676415.0,US,United States
+2011,DE,Germany,issued,SA,Saudi Arabia,1,52961.0,ML11; ML21,1 piece,52961.0,CH,Switzerland
+2011,DE,Germany,issued,SE,Sweden,1,38500.0,ML8,2418 kg,38500.0,US,United States
+2011,DE,Germany,issued,SK,Slovakia,1,4585.0,ML6,1 set,4585.0,IL,Israel
+2011,DE,Germany,issued,ZA,South Africa,6,537810.0,ML6; ML10; ML17,22 pieces; 1 piece; 7 pieces,83500.0; 450000.0; 4310.0,IL; CA; IL,Israel; Canada; Israel
+2011,DE,Germany,issued,TR,Turkey,7,3725470.0,ML9; ML9; ML10; ML10; ML10,1 system; 1 system; various; various; various,1500000.0; 1500000.0; 718465.0; 4115.0; 2890.0,NO; CA; US; US; US,Norway; Canada; United States; United States; United States
+2011,DE,Germany,issued,TM,Turkmenistan,1,60829.0,ML11; ML21,1 piece,60829.0,CH,Switzerland
+2011,DE,Germany,issued,UG,Uganda,1,70000.0,ML6,1 piece,70000.0,JO,Jordan
+2011,HU,Hungary,issued,CZ,Czech Republic,1,,ML10,1,,UA,Ukraine
+2011,LT,Lithuania,issued,DZ,Algeria,1,27500.0,ML10,50,27500.0,AE,United Arab Emirates
+2011,LT,Lithuania,issued,CZ,Czech Republic,2,,,,,,
+2011,LT,Lithuania,issued,IN,India,5,101421.0,ML22,Training,101421.0,RU,Russia
+2011,LT,Lithuania,issued,US,United States,3,,,,,,
+2011,LT,Lithuania,issued,CO,Colombia,1,528827.0,ML22,Training,528827.0,RU,Russia
+2011,LT,Lithuania,issued,LV,Latvia,1,39887.0,ML13,12,39887.0,AT,Austria
+2011,LT,Lithuania,issued,VN,Vietnam,5,,,,,,
+2011,NL,Netherlands,issued,ZA,South Africa,1,1205.3,ML5,10 pieces,1205.3,KR,South Korea
+2011,NL,Netherlands,issued,ID,Indonesia,1,42540.0,ML10,1 piece,42540.0,US,United States
+2011,PL,Poland,issued,EG,Egypt,1,293782.0,ML3,"48069,0 pcs",293782.0,BG,Bulgaria
+2011,PL,Poland,issued,IN,India,1,2888700.0,ML1,7450 pcs,2888700.0,UA,Ukraine
+2011,PL,Poland,issued,LT,Lithuania,1,6100.0,ML7,300 pcs,6100.0,US,United States
+2011,PL,Poland,issued,MY,Malaysia,1,1427272.0,ML19,18 Pcs/3 sets,1427272.0,DE,Germany
+2011,RO,Romania,issued,US,United States,2,0.0,ML11,4,0.0,AZ,Azerbaijan
+2011,RO,Romania,issued,AZ,Azerbaijan,2,0.0,ML11,4,0.0,US,United States
+2011,SI,Slovenia,issued,EG,Egypt,3,566635.0,ML6,356 pcs,331666.0,RS,Serbia
+2011,SE,Sweden,issued,NL,Netherlands,3,,ML3,,,CH,Switzerland
+2011,SE,Sweden,issued,GB,United Kingdom,1,,ML9,,,NL,Netherlands
+2011,SE,Sweden,issued,FI,Finland,1,,ML3,,,IE,Ireland
+2011,SE,Sweden,issued,PL,Poland,1,,ML5,,,GB,United Kingdom
+2011,SE,Sweden,issued,FR,France,2,,ML5,,,GB,United Kingdom
+2011,SE,Sweden,issued,NO,Norway,2,,ML8,,,FR,France
+2011,SE,Sweden,issued,NL; FR; FI; DE; EE,Netherlands; France; Finland; Germany; Estonia,1,,ML6,,,NL; FR; FI; DE; EE,Netherlands; France; Finland; Germany; Estonia
+2011,SE,Sweden,issued,,Multiple countries,1,,ML6,,,GB,United Kingdom
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,293149.0,ML1,,,CA,Canada
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,4128.0,ML13; ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,13945.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,656132.0,ML1,,,UA,Ukraine
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,21.0,ML14; ML18; ML3; ML4,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,21.0,ML14; ML18; ML3; ML4,,,BG,Bulgaria
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,21.0,ML14; ML18; ML3; ML4,,,RO,Romania
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,21.0,ML14; ML18; ML3; ML4,,,RS,Serbia
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,2.0,ML2,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,3.0,ML1,,,RO,Romania
+2011,GB,United Kingdom,issued,AF,Afghanistan,1,1.0,ML2,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,AF,Afghanistan,3,2075115.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,AO,Angola,1,392855.0,ML11,,,AU,Australia
+2011,GB,United Kingdom,issued,AU,Australia,1,15688.0,ML6,,,HU,Hungary
+2011,GB,United Kingdom,issued,BD,Bangladesh,1,2261.0,ML4,,,CA,Canada
+2011,GB,United Kingdom,issued,BB,Barbados,1,49273.0,ML17,,,CN,China
+2011,GB,United Kingdom,issued,BW,Botswana,1,6275.0,ML1,,,TR,Turkey
+2011,GB,United Kingdom,issued,BW,Botswana,1,890315.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,BI,Burundi,1,677795.0,ML1; ML6,,,ZA,South Africa
+2011,GB,United Kingdom,issued,CN,China,1,6973.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,DK,Denmark,4,70049.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,DJ,Djibouti,1,216787.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,DJ,Djibouti,13,3521096.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,,Dubai,1,23780.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,EG,Egypt,1,156884.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,GQ,Equatorial Guinea,1,1103995.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,GH,Ghana,1,5455769.0,ML3; ML4; ML8,,,IN,India
+2011,GB,United Kingdom,issued,GH,Ghana,1,5455769.0,ML3; ML4; ML8,,,RS,Serbia
+2011,GB,United Kingdom,issued,GH,Ghana,1,11772.0,ML11,,,AU,Australia
+2011,GB,United Kingdom,issued,IN,India,1,216787.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,IN,India,5,279220.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,IQ,Iraq,1,127831000.0,ML9,,,US,United States
+2011,GB,United Kingdom,issued,IQ,Iraq,1,6275.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,IQ,Iraq,1,23474.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,IQ,Iraq,1,483327955.0,ML14; ML17; ML6,,,UA,Ukraine
+2011,GB,United Kingdom,issued,IQ,Iraq,2,127831.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,KE,Kenya,1,638148.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,KE,Kenya,2,433573.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,KE,Kenya,2,2590023.0,ML3,,,ZA,South Africa
+2011,GB,United Kingdom,issued,KR,South Korea,1,650776.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,KW,Kuwait,1,1376502.0,ML3,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,LB,Lebanon,1,294706.0,ML15; ML1; ML2; ML3,,,IE,Ireland
+2011,GB,United Kingdom,issued,LY,Libya,1,629475.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,MY,Malaysia,1,2440410.0,ML4,,,BG,Bulgaria
+2011,GB,United Kingdom,issued,MU,Mauritius,6,1862536.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,MU,Mauritius,1,96175.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,MU,Mauritius,1,95111.0,ML1; ML3,,,MU,Mauritius
+2011,GB,United Kingdom,issued,MU,Mauritius,1,24102.0,ML1; ML3,,,LK,Sri Lanka
+2011,GB,United Kingdom,issued,MU,Mauritius,2,61080.0,ML1; ML3,,,OM,Oman
+2011,GB,United Kingdom,issued,NA,Namibia,7,136309.0,ML11,,,AU,Australia
+2011,GB,United Kingdom,issued,NA,Namibia,1,30620.0,ML11; ML21,,,AU,Australia
+2011,GB,United Kingdom,issued,OM,Oman,1,1192.0,ML6,,,TR,Turkey
+2011,GB,United Kingdom,issued,OM,Oman,1,6244.0,ML1,,,US,United States
+2011,GB,United Kingdom,issued,OM,Oman,1,217619.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,OM,Oman,14,2849506.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,DJ,Djibouti
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,EG,Egypt
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,KE,Kenya
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,MG,Madagascar
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,MV,Maldives
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,MU,Mauritius
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,OM,Oman
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,SC,Seychelles
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,ZA,South Africa
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,LK,Sri Lanka
+2011,GB,United Kingdom,issued,OM,Oman,1,722.0,ML13; ML1; ML3,,,TZ,Tanzania
+2011,GB,United Kingdom,issued,PK,Pakistan,1,94978.0,ML13,,,CA,Canada
+2011,GB,United Kingdom,issued,SA,Saudi Arabia,1,4997.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,SG,Singapore,3,7492.0,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,SO,Somalia,1,290525.0,ML6,,,ZA,South Africa
+2011,GB,United Kingdom,issued,SO,Somalia,3,657313.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,ES,Spain,1,10187.0,ML2,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,216787.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,LK,Sri Lanka,9,3074711.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,DJ,Djibouti
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,EG,Egypt
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,KE,Kenya
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,MG,Madagascar
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,MV,Maldives
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,MU,Mauritius
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,OM,Oman
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,SC,Seychelles
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,ZA,South Africa
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,85.0,ML13; ML1,,,TZ,Tanzania
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,24102.0,ML1; ML3,,,MU,Mauritius
+2011,GB,United Kingdom,issued,LK,Sri Lanka,1,30540.0,ML1; ML3,,,MU,Mauritius
+2011,GB,United Kingdom,issued,SS,South Sudan,1,10459.0,ML6,,,IQ,Iraq
+2011,GB,United Kingdom,issued,TZ,Tanzania,4,584832.0,ML1; ML3,,,MT,Malta
+2011,GB,United Kingdom,issued,TH,Thailand,1,411507.0,ML3,,,RS,Serbia
+2011,GB,United Kingdom,issued,TT,Trinidad & Tobago,1,8030.0,ML1,,,TR,Turkey
+2011,GB,United Kingdom,issued,TN,Tunisia,1,156884.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,AE,United Arab Emirates,1,35862.0,ML13,,,CA,Canada
+2011,GB,United Kingdom,issued,UG,Uganda,1,2684.0,ML11,,,AU,Australia
+2011,GB,United Kingdom,issued,UG,Uganda,2,861956.0,ML3,,,BG,Bulgaria
+2011,GB,United Kingdom,issued,US,United States,1,47306.0,ML3,,,BA,Bosnia & Herzegovina
+2011,GB,United Kingdom,issued,YE,Yemen,1,81347.0,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,ZA; LK; OM; MT; MU,South Africa; Sri Lanka; Oman; Malta; Mauritius,,,ML13; ML1; ML3,,,MT; MU; OM; ZA; LK,Malta; Mauritius; Oman; South Africa; Sri Lanka
+2011,GB,United Kingdom,issued,ZA; LK; JO; EG; OM; MT; DJ; MU,South Africa; Sri Lanka; Jordan; Egypt; Oman; Malta; Djibouti; Mauritius,,,ML13; ML15; ML1; ML3,,,DJ; EG; JO; MT; MU; OM; ZA; LK,Djibouti; Egypt; Jordan; Malta; Mauritius; Oman; South Africa; Sri Lanka
+2011,GB,United Kingdom,issued,ZA; LK; KE; OM; MT; DJ; MU,South Africa; Sri Lanka; Kenya; Oman; Malta; Djibouti; Mauritius,,,ML13; ML15; ML1; ML3,,,DJ; KE; MT; MU; OM; ZA; LK,Djibouti; Kenya; Malta; Mauritius; Oman; South Africa; Sri Lanka
+2011,GB,United Kingdom,issued,ZA; LK; OM; MT; DJ; MU,South Africa; Sri Lanka; Oman; Malta; Djibouti; Mauritius,,,ML13; ML1,,,DJ; MT; MU; OM; ZA; LK,Djibouti; Malta; Mauritius; Oman; South Africa; Sri Lanka
+2011,GB,United Kingdom,issued,MZ; ZA; LK; KE; OM; TZ; MG; DJ; IN; MU,Mozambique; South Africa; Sri Lanka; Kenya; Oman; Tanzania; Madagascar; Djibouti; India; Mauritius,,,ML13; ML15; ML1; ML3,,,DJ; IN; KE; MG; MV; MT; MU; MZ; OM; ZA; LK; TZ,Djibouti; India; Kenya; Madagascar; Maldives; Malta; Mauritius; Mozambique; Oman; South Africa; Sri Lanka; Tanzania
+2011,GB,United Kingdom,issued,LK; KE; OM,Sri Lanka; Kenya; Oman,,,ML13; ML1; ML3,,,KE; OM; LK,Kenya; Oman; Sri Lanka
+2011,GB,United Kingdom,issued,ZA; LK; AU; EG; OM; TZ; MT; TH; SG; DJ; MY,South Africa; Sri Lanka; Australia; Egypt; Oman; Tanzania; Malta; Thailand; Singapore; Djibouti; Malaysia,,,ML13; ML1; ML3,,,AU; DJ; EG; MY; MT; OM; SG; ZA; LK; TZ; TH,Australia; Djibouti; Egypt; Malaysia; Malta; Oman; Singapore; South Africa; Sri Lanka; Tanzania; Thailand
+2011,GB,United Kingdom,issued,AF; KE; SY; EG; SA; TN; PK; PG; MX; SB; IQ,Afghanistan; Kenya; Syria; Egypt; Saudi Arabia; Tunisia; Pakistan; Papua New Guinea; Mexico; Solomon Islands; Iraq,,,ML6,,,JO,Jordan
+2011,GB,United Kingdom,issued,PH,Philippines,,,ML4,,,TR,Turkey
+2011,GB,United Kingdom,issued,KR; KW; FR; SA; AE,South Korea; Kuwait; France; Saudi Arabia; United Arab Emirates,,,ML10,,,ZA,South Africa
+2011,GB,United Kingdom,issued,MZ; ZA; LK; KE; SC; EG; OM; TZ; MR; MV; DJ; MU,Mozambique; South Africa; Sri Lanka; Kenya; Seychelles; Egypt; Oman; Tanzania; Mauritania; Maldives; Djibouti; Mauritius,,,ML13; ML15; ML1; ML3,,,DJ; EG; KE; MV; MU; MZ; OM; SC; ZA; LK,Djibouti; Egypt; Kenya; Maldives; Mauritius; Mozambique; Oman; Seychelles; South Africa; Sri Lanka
+2011,GB,United Kingdom,issued,NL; PH; ZA; LK; KE; SC; US; AR; EG; OM; TZ; BR; MT; GI; MG; MV; TH; HK; QA; MY; IN; MU; MX,Netherlands; Philippines; South Africa; Sri Lanka; Kenya; Seychelles; United States; Argentina; Egypt; Oman; Tanzania; Brazil; Malta; Gibraltar; Madagascar; Maldives; Thailand; Hong Kong; Qatar; Malaysia; India; Mauritius; Mexico,,,ML11; ML13; ML1; ML3,,,AR; BR; EG; GI; HK; IN; KE; MG; MY; MV; MT; MU; MX; NL; OM; PH; QA; SC; ZA; LK; TZ; TH; US,Argentina; Brazil; Egypt; Gibraltar; Hong Kong; India; Kenya; Madagascar; Malaysia; Maldives; Malta; Mauritius; Mexico; Netherlands; Oman; Philippines; Qatar; Seychelles; South Africa; Sri Lanka; Tanzania; Thailand; United States
+2011,GB,United Kingdom,issued,LB,Lebanon,,,ML13; ML1; ML3,,,PT,Portugal
+2011,GB,United Kingdom,issued,ZA; LK; KE; OM; TZ; DJ; IN; MU; AE,South Africa; Sri Lanka; Kenya; Oman; Tanzania; Djibouti; India; Mauritius; United Arab Emirates,,,ML1; ML3,,,DJ; IN; KE; MT; MU; OM; ZA; LK; TZ; AE,Djibouti; India; Kenya; Malta; Mauritius; Oman; South Africa; Sri Lanka; Tanzania; United Arab Emirates
+2011,GB,United Kingdom,issued,CN,China,,,ML11,,,US,United States
+2011,GB,United Kingdom,issued,AU,Australia,,,ML4,,,FR,France
+2011,GB,United Kingdom,issued,MZ; ZA; LK; KE; SC; EG; OM; TZ; MT; MV; SG; DJ; MY; MU,Mozambique; South Africa; Sri Lanka; Kenya; Seychelles; Egypt; Oman; Tanzania; Malta; Maldives; Singapore; Djibouti; Malaysia; Mauritius,,,ML1; ML3,,,DJ; EG; KE; MY; MV; MU; MZ; OM; SC; SG; ZA; LK; TZ,Djibouti; Egypt; Kenya; Malaysia; Maldives; Mauritius; Mozambique; Oman; Seychelles; Singapore; South Africa; Sri Lanka; Tanzania
+2011,GB,United Kingdom,issued,,Worldwide excluding embargoed countries,,,ML1; ML10; ML11; ML12; ML13; ML14; ML15; ML16; ML17; ML18; ML19; ML2; ML20; ML3; ML4; ML5; ML6; ML7; ML8; ML9,,,,Worldwide excluding embargoed countries
+2011,GB,United Kingdom,issued,IQ,Iraq,,,ML10; ML1; ML3,,,QA; AE,Qatar; United Arab Emirates
+2011,GB,United Kingdom,issued,GN; LB; CD; CI; LR; SL; SD,Guinea; Lebanon; Democratic Republic of Congo; Ivory Coast; Liberia; Sierra Leone; Sudan,,,ML1; ML2; ML3; ML4,,,,Worldwide excluding embargoed countries
+2011,GB,United Kingdom,issued,IQ,Iraq,,,ML1; ML10; ML11; ML12; ML13; ML14; ML15; ML16; ML17; ML18; ML19; ML2; ML20; ML3; ML4; ML5; ML6; ML7; ML8; ML9,,,,Worldwide excluding embargoed countries
+2011,GB,United Kingdom,issued,MO; BD; ID; CN; TH; HK; VN; SG; MY; IN,Macao; Bangladesh; Indonesia; China; Thailand; Hong Kong; Vietnam; Singapore; Malaysia; India,,,ML13,,,ZA,South Africa
+2011,GB,United Kingdom,issued,AE; HR; LT; BD; ID; TR; TW; CN; EG; KW; OM; LV; BR; CO; VN; GU; PK; MY; IN; MX; SI,United Arab Emirates; Croatia; Lithuania; Bangladesh; Indonesia; Turkey; Taiwan; China; Egypt; Kuwait; Oman; Latvia; Brazil; Colombia; Vietnam; Guam; Pakistan; Malaysia; India; Mexico; Slovenia,,,ML4,,,FR; MY,France; Malaysia
+2011,DE,Germany,refused,RS,Serbia,1,30000.0,ML3,110 pieces,30000.0,CH,Switzerland
+2011,PL,Poland,refused,EG,Egypt,1,4019.0,ML1,11 Sets,4019.0,RO,Romania
+2011,SE,Sweden,refused,,Nordic countries,1,,ML6,,,US,United States
+2011,SE,Sweden,refused,SO,Somalia,1,,ML3,,,RU,Russia
+2012,AT,Austria,issued,CA,Canada,1,11650000,ML2,22,11650000,RU,Russia
+2012,BG,Bulgaria,issued,DZ,Algeria,1,2022280,ML11,81 sets,2022280,UA,Ukraine
+2012,CZ,Czech Republic,issued,AE,United Arab Emirates,3,7475,ML10,12 PCE,776,RU,Russia
+2012,CZ,Czech Republic,issued,BD,Bangladesh,3,85866,ML10,1249 PCE,112427,RU,Russia
+2012,CZ,Czech Republic,issued,DZ,Algeria,1,488,ML6,54 PCE,73,RU,Russia
+2012,CZ,Czech Republic,issued,EG,Egypt,2,166299,ML11,35 PCE,1278,RU; UA,Russia; Ukraine
+2012,CZ,Czech Republic,issued,ET,Ethiopia,4,832621,ML2; ML10,64 PCE; 566 PCE,598257,BG; GB; RU,Bulgaria; United Kingdom; Russia
+2012,CZ,Czech Republic,issued,GB,United Kingdom,1,93306,ML4,920 PCE,87818,RO,Romania
+2012,CZ,Czech Republic,issued,ID,Indonesia,1,3878,ML10,2 PCE,3782,RU,Russia
+2012,CZ,Czech Republic,issued,IL,Israel,1,5811,ML10,,0,RU,Russia
+2012,CZ,Czech Republic,issued,JO,Jordan,3,36643,ML6,3765 PCE,27327,RU; UA,Russia; Ukraine
+2012,CZ,Czech Republic,issued,KZ,Kazakhstan,2,28579,ML1; ML5,133 SET,23238,US; US,United States; United States
+2012,CZ,Czech Republic,issued,LK,Sri Lanka,2,41730,ML6; ML10,,0,UA; LV,Ukraine; Latvia
+2012,CZ,Czech Republic,issued,PL,Poland,1,172,ML10,8 PCE,185,GB,United Kingdom
+2012,CZ,Czech Republic,issued,RU,Russia,3,55830,ML2; ML10; ML18,1 SET; 58 PCE; 2 SET,44075,GB; SK; GB,United Kingdom; Slovakia; United Kingdom
+2012,CZ,Czech Republic,issued,SK,Slovakia,2,73436,ML10,25 PCE,74649,RU,Russia
+2012,CZ,Czech Republic,issued,TH,Thailand,2,18614,ML10,394 PCE,17798,IL; TH,Israel; Thailand
+2012,CZ,Czech Republic,issued,US,United States,1,24882,ML10,1 UNS,0,CZ,Czech Republic
+2012,CY,Cyprus,issued,UA,Ukraine,4,1126760,ML10g,3904,1126760,ME,Montenegro
+2012,CY,Cyprus,issued,US,United States,1,3600000,ML3a,50000000,3600000,UA,Ukraine
+2012,CY,Cyprus,issued,BG,Bulgaria,1,126610,ML10g,127,126610,ME,Montenegro
+2012,CY,Cyprus,issued,GQ,Equatorial Guinea,1,92240,ML10g,176,92240,ME,Montenegro
+2012,EE,Estonia,issued,US,United States,1,14500,ML10,45 pc,7000,UA,Ukraine
+2012,DE,Germany,issued,DZ,Algeria,1,0,ML6A,3 pieces,,CA,Canada
+2012,DE,Germany,issued,EG,Egypt,1,55903,ML8A,300kg,,UA,Ukraine
+2012,DE,Germany,issued,CL,Chile,1,11448,ML21A,1 piece,,CH,Switzerland
+2012,DE,Germany,issued,EC,Ecuador,1,12455,ML11A; ML21A,1 piece; 1 piece,,CH,Switzerland
+2012,DE,Germany,issued,ID,Indonesia,1,129500,ML11A,1 set,,IL,Israel
+2012,DE,Germany,issued,IQ,Iraq,1,67500,ML11A,1 piece,,US,United States
+2012,DE,Germany,issued,KR,South Korea,1,1922050,ML4B,400 parts,,IL,Israel
+2012,DE,Germany,issued,KW,Kuwait,1,2100000,ML7F,"36,000 pieces",,US,United States
+2012,DE,Germany,issued,,Different Countries,1,1,ML4A,"5,000 pieces",,,Different Countries
+2012,DE,Germany,issued,PK,Pakistan,1,1000000,ML10B; ML10D,various parts,,TR,Turkey
+2012,DE,Germany,issued,ZA,South Africa,17,717440,ML6A,180 pieces,,IL,Israel
+2012,DE,Germany,issued,TH,Thailand,2,98247,ML11A; ML21A,2 pieces; 2 pieces,,CH,Switzerland
+2012,DE,Germany,issued,TH,Thailand,1,8846,ML13D,42 pair,,SG,Singapore
+2012,DE,Germany,issued,TR,Turkey,1,250000,ML3A,"252,500 pieces",,US,United States
+2012,DE,Germany,issued,TR,Turkey,1,0,ML3B,10 pieces,,NO,Norway
+2012,DE,Germany,issued,TR,Turkey,2,93000,ML7F,80 pieces,,CA,Canada
+2012,DE,Germany,issued,TR,Turkey,1,4485,ML10B,5 parts,,US,United States
+2012,DE,Germany,issued,AE,United Arab Emirates,1,0,ML3B,10 pieces,,NO,Norway
+2012,DE,Germany,issued,AE,United Arab Emirates,1,100000,ML7F,"3,000 pieces",,US,United States
+2012,DE,Germany,issued,AE,United Arab Emirates,1,49592,ML11A; ML21A,2 pieces,,CH,Switzerland
+2012,DE,Germany,issued,US,United States,1,295000,ML8C,"45,000; kg",,CN,China
+2012,IE,Ireland,issued,MA,Morocco,1,465000,ML11,3,465000,DE,Germany
+2012,IE,Ireland,issued,MA,Morocco,1,4650000,ML11,30,4650000,DE,Germany
+2012,LT,Lithuania,issued,CZ,Czech Republic,1,1756,ML10,1055,1756,HK,Hong Kong
+2012,LT,Lithuania,issued,IN,India,2,,ML22,,,RU,Russia
+2012,LT,Lithuania,issued,US,United States,1,384268,ML22,2,274193,RU,Russia
+2012,LT,Lithuania,issued,CG,Congo,1,4109700,ML10,1,4109700,UA,Ukraine
+2012,LT,Lithuania,issued,PE,Peru,1,264861,ML10,4330,0,HK,Hong Kong
+2012,LT,Lithuania,issued,RO,Romania,1,2052000,ML10,1,1847000,RU,Russia
+2012,LT,Lithuania,issued,UA,Ukraine,1,240064,ML10,628,0,HK,Hong Kong
+2012,PL,Poland,issued,EG,Egypt,6,,,,,BG,Bulgaria
+2012,RO,Romania,issued,AZ,Azerbaijan,1,667911,ML10,94,660385,ZA,South Africa
+2012,RO,Romania,issued,US,United States,1,487658,ML11,9,226233,AZ,Azerbaijan
+2012,RO,Romania,issued,AZ,Azerbaijan,2,1029500,ML11,1,53184,US,United States
+2012,SK,Slovakia,issued,KH,Cambodia,1,437500,ML6,,,RS,Serbia
+2012,SK,Slovakia,issued,EG,Egypt,1,2464000,ML6,3 pc,354000,UA,Ukraine
+2012,SK,Slovakia,issued,DZ,Algeria,1,1206000,ML6,3411 pc,1206000,CZ,Czech Republic
+2012,SK,Slovakia,issued,KH,Cambodia,1,741075,ML6,,,KH,Cambodia
+2012,SK,Slovakia,issued,KZ,Kazakhstan,3,515976,ML10,42,395340,DE,Germany
+2012,SK,Slovakia,issued,KZ,Kazakhstan,1,259258,ML10,200,259258,KZ,Kazakhstan
+2012,SK,Slovakia,issued,US,United States,1,1205951,ML6,,,BG,Bulgaria
+2012,SI,Slovenia,issued,EG,Egypt,1,152801,ML6,166 pcs,152801,RS,Serbia
+2012,SE,Sweden,issued,DK,Denmark,4,,ML3,,,CA,Canada
+2012,SE,Sweden,issued,SG,Singapore,1,,ML5,,,FR,France
+2012,SE,Sweden,issued,US,United States,1,,ML3,,,CH,Switzerland
+2012,SE,Sweden,issued,DK,Denmark,1,,ML2,,,CH,Switzerland
+2012,SE,Sweden,issued,DK,Denmark,1,,ML5,,,US,United States
+2012,SE,Sweden,issued,DK,Denmark,1,,ML11,,,FR,France
+2012,SE,Sweden,issued,DK,Denmark,1,,ML15,,,US,United States
+2012,SE,Sweden,issued,NO,Norway,1,,ML3,,,US,United States
+2012,SE,Sweden,issued,NO,Norway,1,,ML10,,,US,United States
+2012,SE,Sweden,issued,AU,Australia,1,,ML5,,,GB,United Kingdom
+2012,SE,Sweden,issued,AL,Albania,1,,ML5,,,FR,France
+2012,SE,Sweden,issued,DE; PL; DZ,Germany; Poland; Algeria,1,,ML4,,,,Multiple countries
+2012,GB,United Kingdom,issued,,Abu Dhabi,1,2346371,ML6a,,,FI,Finland
+2012,GB,United Kingdom,issued,,Abu Dhabi,1,8950,ML7g,,,US,United States
+2012,GB,United Kingdom,issued,AF,Afghanistan,1,1,ML4a,,,BG,Bulgaria
+2012,GB,United Kingdom,issued,AF,Afghanistan,1,1,ML3a,,,RO,Romania
+2012,GB,United Kingdom,issued,AF,Afghanistan,1,3692,ML13c,,,ZA,South Africa
+2012,GB,United Kingdom,issued,AF,Afghanistan,1,151890,ML6b1,,,TH,Thailand
+2012,GB,United Kingdom,issued,BA,Bosnia & Herzegovina,1,3444,ML1a; ML1d,,,US,United States
+2012,GB,United Kingdom,issued,BA,Bosnia & Herzegovina,1,18860,ML1a,,,US,United States
+2012,GB,United Kingdom,issued,BW,Botswana,1,13052,ML1a,,,TR,Turkey
+2012,GB,United Kingdom,issued,BR,Brazil,1,226723,ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,BN,Brunei Darussalam,1,32069,ML3,,,MY,Malaysia
+2012,GB,United Kingdom,issued,BI,Burundi,1,1355965,ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,BI,Burundi,1,2099553,ML1d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,CN,China,1,6215,ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,CO,Colombia,1,161590,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,CD,Democratic Republic of Congo,1,28912,ML13c; ML13d,,,KH,Cambodia
+2012,GB,United Kingdom,issued,CD,Democratic Republic of Congo,1,28912,ML13c; ML13d,,,CA,Canada
+2012,GB,United Kingdom,issued,HR,Croatia,1,179574,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,HR,Croatia,1,1279135,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,DK,Denmark,1,19197,ML13c; ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,DK,Denmark,1,12166,ML13c; ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,DJ,Djibouti,1,178681,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,DJ,Djibouti,1,68365,ML1a; ML3a,,,KR,South Korea
+2012,GB,United Kingdom,issued,,Dubai,1,107593,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,GH,Ghana,1,5847072,ML13c; ML13d,,,MY,Malaysia
+2012,GB,United Kingdom,issued,IN,India,1,6076,ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,IN,India,1,1243,ML13c,,,ZA,South Africa
+2012,GB,United Kingdom,issued,ID,Indonesia,1,1643599,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,ID,Indonesia,1,172582,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,ID,Indonesia,1,111702,ML6b,,,TH,Thailand
+2012,GB,United Kingdom,issued,IQ,Iraq,1,60907,ML13c; ML13d,,,CN,China
+2012,GB,United Kingdom,issued,IQ,Iraq,1,2881296,ML4a; ML4b1,,,CZ,Czech Republic
+2012,GB,United Kingdom,issued,IQ,Iraq,1,13673000,ML10b; ML11a; ML15d; ML1a; ML2a; ML5b,,,RS,Serbia
+2012,GB,United Kingdom,issued,IL,Israel,1,2843077,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,IL,Israel,1,143195,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,IL,Israel,1,8822,ML13c; ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,KE,Kenya,1,1348655,ML3a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,KE,Kenya,1,1828900,ML1a; ML1d,,,US,United States
+2012,GB,United Kingdom,issued,LB,Lebanon,1,90131,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,LB,Lebanon,1,90131,ML6b1,,,JO,Jordan
+2012,GB,United Kingdom,issued,LY,Libya,1,172808,ML11a,,,AU,Australia
+2012,GB,United Kingdom,issued,LY,Libya,1,172808,ML11a,,,AU,Australia
+2012,GB,United Kingdom,issued,MY,Malaysia,1,3654,ML3a,,,BA,Bosnia & Herzegovina
+2012,GB,United Kingdom,issued,NA,Namibia,1,91185,ML11a,,,AU,Australia
+2012,GB,United Kingdom,issued,NG,Nigeria,1,215352,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,PS,Palestine,1,157755,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,OM,Oman,1,286401,ML3a,,,BE,Belgium
+2012,GB,United Kingdom,issued,OM,Oman,1,44997,ML13c; ML13d; ML1a; ML3a,,,MT,Malta
+2012,GB,United Kingdom,issued,OM,Oman,1,32517,ML1a; ML1d; ML3a,,,MU,Mauritius
+2012,GB,United Kingdom,issued,OM,Oman,1,776626,ML1a,,,CH,Switzerland
+2012,GB,United Kingdom,issued,OM,Oman,1,71224,ML3a,,,US,United States
+2012,GB,United Kingdom,issued,OM,Oman,1,71224,ML3a,,,US,United States
+2012,GB,United Kingdom,issued,PK,Pakistan,1,45848,ML1a; ML1d,,,US,United States
+2012,GB,United Kingdom,issued,PK,Pakistan,1,225565,ML1a; ML1d; ML2a; ML3a,,,US,United States
+2012,GB,United Kingdom,issued,PH,Philippines,1,143195,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SL,Sierra Leone,1,553135,ML2d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SG,Singapore,1,10512,ML5b,,,TW,Taiwan
+2012,GB,United Kingdom,issued,SK,Slovakia,1,1554202,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,SO,Somalia,1,93225,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SO,Somalia,1,93225,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SO,Somalia,1,234278,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SO,Somalia,1,99440,ML1d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SO,Somalia,1,121193,ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SO,Somalia,1,2539538,ML1d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SO,Somalia,1,561161,ML1d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SO,Somalia,1,791510,ML1d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,ZA,South Africa,1,85940,ML1d,,,BY,Belarus
+2012,GB,United Kingdom,issued,ZA,South Africa,1,61001,ML13c; ML13d; ML1a; ML1d; ML3a,,,OM,Oman
+2012,GB,United Kingdom,issued,ZA,South Africa,1,61001,ML13c; ML13d; ML1a; ML1d; ML3a,,,LK,Sri Lanka
+2012,GB,United Kingdom,issued,LK,Sri Lanka,1,23306,ML13c; ML13d,,,CN,China
+2012,GB,United Kingdom,issued,LK,Sri Lanka,1,50714,ML13c; ML13d; ML1a; ML3a,,,MU,Mauritius
+2012,GB,United Kingdom,issued,LK,Sri Lanka,1,46861,ML13c; ML13d; ML1a; ML3a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,SS,South Sudan,1,2388294,ML6a,,,NL,Netherlands
+2012,GB,United Kingdom,issued,SE,Sweden,1,2801670,ML4a,,,AU,Australia
+2012,GB,United Kingdom,issued,SE,Sweden,1,372900,ML6a,,,FI,Finland
+2012,GB,United Kingdom,issued,SY,Syria,1,249923,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,249923,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,85767,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,178395,ML6b,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,94819,ML6b1,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,194922,ML6b1,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,99452,ML6b1,,,JO,Jordan
+2012,GB,United Kingdom,issued,SY,Syria,1,92075,ML6b1,,,JO,Jordan
+2012,GB,United Kingdom,issued,TW,Taiwan,1,4972,ML7g,,,SG,Singapore
+2012,GB,United Kingdom,issued,TW,Taiwan,1,37141,ML13d,,,ZA,South Africa
+2012,GB,United Kingdom,issued,TW,Taiwan,1,1394864,ML9a1,,,US,United States
+2012,GB,United Kingdom,issued,TZ,Tanzania,1,3141,ML11a,,,AU,Australia
+2012,GB,United Kingdom,issued,TZ,Tanzania,1,466,ML1a,,,,Non Specific Country
+2012,GB,United Kingdom,issued,TR,Turkey,1,4670,ML10,,,US,United States
+2012,GB,United Kingdom,issued,UG,Uganda,1,503415,ML6a,,,NL,Netherlands
+2012,GB,United Kingdom,issued,UG,Uganda,1,503415,ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,UG,Uganda,1,2233092,ML1d; ML6a,,,ZA,South Africa
+2012,GB,United Kingdom,issued,US,United States,1,3356,ML4b1,,,BG,Bulgaria
+2012,GB,United Kingdom,issued,US,United States,1,4220,ML1a,,,RS,Serbia
+2012,GB,United Kingdom,issued,US,United States,1,1715,ML1a; ML1d,,,RS,Serbia
+2012,GB,United Kingdom,issued,,"Vessel, Platform in International Waters",1,1477,ML13c; ML13d,,,ZA,South Africa
+2012,LT,Lithuania,refused,PE,Peru,1,136434,ML11,11,136434,JO,Jordan
+2012,SE,Sweden,refused,US,United States,1,,ML1,,,RS,Serbia
+2012,GB,United Kingdom,refused,NP,Nepal,,5195,ML1d,,,US,United States
+2012,GB,United Kingdom,refused,CG,Congo,,201366,ML3a,,,HR,Croatia
+2012,GB,United Kingdom,refused,CG,Congo,,124300,ML3a,,,HR,Croatia
