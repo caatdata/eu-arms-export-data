@@ -98,7 +98,6 @@
 2004,ES,Spain,,,0,3,
 2004,SE,Sweden,,,0,3,
 2004,GB,United Kingdom,,,20,46,
-
 2005,AT,Austria,,,9,5,
 2005,BE,Belgium,,,4,3,
 2005,CY,Cyprus,,,0,0,
@@ -173,7 +172,6 @@
 2005,,,VN,Vietnam,,,2
 2005,,,ZM,Zambia,,,5
 2005,,,,Others,,,2
-
 2006,AT,Austria,,,4,3,
 2006,BE,Belgium,,,7,2,
 2006,CY,Cyprus,,,0,0,
@@ -238,7 +236,6 @@
 2006,,,UA,Ukraine,,,4
 2006,,,VN,Vietnam,,,3
 2006,,,ZM,Zambia,,,1
-
 2007,AT,Austria,,,22,4,
 2007,BE,Belgium,,,15,7,
 2007,BG,Bulgaria,,,1,0,
@@ -313,7 +310,6 @@
 2007,,,VE,Venezuela,,,3
 2007,,,VN,Vietnam,,,1
 2007,,,ZM,Zambia,,,1
-
 2008,AT,Austria,,,13,1,
 2008,BE,Belgium,,,10,4,
 2008,BG,Bulgaria,,,3,0,
@@ -379,7 +375,6 @@
 2008,,,AE,United Arab Emirates,,,1
 2008,,,VE,Venezuela,,,2
 2008,,,VN,Vietnam,,,2
-
 2009,AT,Austria,,,7,3,
 2009,BE,Belgium,,,11,3,
 2009,BG,Bulgaria,,,1,4,
@@ -451,7 +446,76 @@
 2009,,,VE,Venezuela,,,3
 2009,,,VN,Vietnam,,,6
 2009,,,YE,Yemen,,,7
-
+2010,AT,Austria,,,14,4,
+2010,BE,Belgium,,,15,1,
+2010,BG,Bulgaria,,,0,2,
+2010,CY,Cyprus,,,0,0,
+2010,CZ,Czech Republic,,,14,0,
+2010,DK,Denmark,,,0,0,
+2010,EE,Estonia,,,3,0,
+2010,FI,Finland,,,0,2,
+2010,FR,France,,,8,13,
+2010,DE,Germany,,,10,61,
+2010,GR,Greece,,,0,0,
+2010,HU,Hungary,,,0,0,
+2010,IE,Ireland,,,0,0,
+2010,IT,Italy,,,16,4,
+2010,LV,Latvia,,,2,0,
+2010,LT,Lithuania,,,4,0,
+2010,LU,Luxembourg,,,0,0,
+2010,MT,Malta,,,0,0,
+2010,NL,Netherlands,,,1,7,
+2010,PL,Poland,,,2,0,
+2010,PT,Portugal,,,5,1,
+2010,RO,Romania,,,0,0,
+2010,SK,Slovakia,,,0,0,
+2010,SI,Slovenia,,,0,0,
+2010,ES,Spain,,,0,0,
+2010,SE,Sweden,,,0,6,
+2010,GB,United Kingdom,,,15,8,
+2010,,,DZ,Algeria,,,2
+2010,,,AO,Angola,,,1
+2010,,,AR,Argentina,,,1
+2010,,,BD,Bangladesh,,,2
+2010,,,BY,Belarus,,,5
+2010,,,BA,Bosnia & Herzegovina,,,1
+2010,,,CM,Cameroon,,,1
+2010,,,CN,China,,,6
+2010,,,HR,Croatia,,,2
+2010,,,EG,Egypt,,,4
+2010,,,GQ,Equatorial Guinea,,,2
+2010,,,EE,Estonia,,,1
+2010,,,MK,Macedonia,,,1
+2010,,,GE,Georgia,,,5
+2010,,,IN,India,,,3
+2010,,,ID,Indonesia,,,6
+2010,,,IL,Israel,,,9
+2010,,,KZ,Kazakhstan,,,1
+2010,,,KW,Kuwait,,,1
+2010,,,LY,Libya,,,3
+2010,,,MX,Mexico,,,4
+2010,,,MD,Moldova,,,3
+2010,,,MA,Morocco,,,2
+2010,,,NG,Nigeria,,,1
+2010,,,PK,Pakistan,,,3
+2010,,,PH,Philippines,,,2
+2010,,,PY,Paraguay,,,1
+2010,,,RW,Rwanda,,,3
+2010,,,RU,Russia,,,2
+2010,,,RS,Serbia,,,3
+2010,,,TW,Taiwan,,,1
+2010,,,TJ,Tajikistan,,,1
+2010,,,TH,Thailand,,,1
+2010,,,TN,Tunisia,,,1
+2010,,,TM,Turkmenistan,,,2
+2010,,,TR,Turkey,,,2
+2010,,,UG,Uganda,,,1
+2010,,,UA,Ukraine,,,11
+2010,,,AE,United Arab Emirates,,,2
+2010,,,VN,Vietnam,,,3
+2010,,,VE,Venezuela,,,1
+2010,,,YE,Yemen,,,1
+2010,,,ZM,Zambia,,,1
 2011,AT,Austria,,,21,5,
 2011,BE,Belgium,,,12,7,
 2011,BG,Bulgaria,,,1,0,
@@ -486,7 +550,7 @@
 2011,,,BH,Bahrain,,,1
 2011,,,BD,Bangladesh,,,1
 2011,,,BA,Bosnia & Herzegovina,,,1
-2011,,,MO,Macao,,,2
+2011,,,CN,China,,,2
 2011,,,CG,Congo,,,1
 2011,,,CO,Colombia,,,2
 2011,,,EG,Egypt,,,4
@@ -521,7 +585,6 @@
 2011,,,VE,Venezuela,,,1
 2011,,,VN,Vietnam,,,2
 2011,,,YE,Yemen,,,2
-
 2012,AT,Austria,,,17,4,
 2012,BE,Belgium,,,33,5,
 2012,BG,Bulgaria,,,1,1,
@@ -556,7 +619,7 @@
 2012,,,BA,Bosnia & Herzegovina,,,3
 2012,,,CN,China,,,1
 2012,,,CG,Congo,,,3
-2012,,,,Northern Cyprus,,,1
+2012,,,CY,Cyprus,,,1
 2012,,,EC,Ecuador,,,1
 2012,,,EG,Egypt,,,1
 2012,,,MK,Macedonia,,,2
@@ -589,3 +652,84 @@
 2012,,,VE,Venezuela,,,5
 2012,,,VN,Vietnam,,,3
 2012,,,YE,Yemen,,,1
+2012,AT,Austria,,,14,8,
+2012,BE,Belgium,,,17,11,
+2012,BG,Bulgaria,,,4,0,
+2012,HR,Croatia,,,0,0,
+2012,CY,Cyprus,,,0,0,
+2012,CZ,Czech Republic,,,13,0,
+2012,DK,Denmark,,,0,3,
+2012,EE,Estonia,,,5,0,
+2012,FI,Finland,,,0,12,
+2012,FR,France,,,11,9,
+2012,DE,Germany,,,21,61,
+2012,GR,Greece,,,0,4,
+2012,HU,Hungary,,,0,0,
+2012,IE,Ireland,,,0,0,
+2012,IT,Italy,,,21,3,
+2012,LV,Latvia,,,2,0,
+2012,LT,Lithuania,,,0,0,
+2012,LU,Luxembourg,,,0,0,
+2012,MT,Malta,,,1,0,
+2012,NL,Netherlands,,,3,4,
+2012,PL,Poland,,,0,0,
+2012,PT,Portugal,,,2,0,
+2012,RO,Romania,,,2,1,
+2012,SK,Slovakia,,,1,0,
+2012,SI,Slovenia,,,0,0,
+2012,ES,Spain,,,1,0,
+2012,SE,Sweden,,,0,7,
+2012,GB,United Kingdom,,,16,11,
+2012,,,DZ,Algeria,,,4
+2012,,,AD,Andorra,,,1
+2012,,,BO,Bolivia,,,2
+2012,,,BH,Bahrain,,,1
+2012,,,BD,Bangladesh,,,2
+2012,,,BA,Bosnia & Herzegovina,,,2
+2012,,,BN,Brunei Darussalam,,,1
+2012,,,CM,Cameroon,,,2
+2012,,,TD,Chad,,,1
+2012,,,CO,Colombia,,,1
+2012,,,CD,Democratic Republic of Congo,,,1
+2012,,,DO,Dominican Republic,,,1
+2012,,,EG,Egypt,,,9
+2012,,,MK,Macedonia,,,4
+2012,,,GE,Georgia,,,3
+2012,,,GT,Guatemala,,,1
+2012,,,IN,India,,,2
+2012,,,ID,Indonesia,,,2
+2012,,,IL,Israel,,,3
+2012,,,ID,Indonesia,,,1
+2012,,,JO,Jordan,,,3
+2012,,,KZ,Kazakhstan,,,1
+2012,,,KE,Kenya,,,5
+2012,,,,Kosovo,,,6
+2012,,,KG,Kyrgyzstan,,,1
+2012,,,LY,Libya,,,5
+2012,,,MY,Malaysia,,,1
+2012,,,MD,Moldova,,,1
+2012,,,MA,Morocco,,,2
+2012,,,MM,Myanmar,,,1
+2012,,,NA,Namibia,,,1
+2012,,,NG,Nigeria,,,1
+2012,,,OM,Oman,,,1
+2012,,,PY,Paraguay,,,1
+2012,,,PH,Philippines,,,2
+2012,,,QA,Qatar,,,1
+2012,,,RU,Russia,,,3
+2012,,,SA,Saudi Arabia,,,11
+2012,,,RS,Serbia,,,1
+2012,,,ZA,South Africa,,,5
+2012,,,LK,Sri Lanka,,,1
+2012,,,SR,Suriname,,,1
+2012,,,TW,Taiwan,,,2
+2012,,,TZ,Tanzania,,,1
+2012,,,TH,Thailand,,,10
+2012,,,TR,Turkey,,,2
+2012,,,TM,Turkmenistan,,,7
+2012,,,UA,Ukraine,,,2
+2012,,,AE,United Arab Emirates,,,4
+2012,,,UY,Uruguay,,,1
+2012,,,VE,Venezuela,,,1
+2012,,,VN,Vietnam,,,4
+2012,,,ZM,Zambia,,,1

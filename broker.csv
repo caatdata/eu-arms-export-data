@@ -246,8 +246,8 @@
 2009,GB,United Kingdom,issued,TT,Trinidad & Tobago,2,1006338.24,ML1a; ML3a; ML1d; ML22a; PL5017,,,IL,Israel
 2009,GB,United Kingdom,issued,TR,Turkey,1,251520.0,ML13a2,,,US,United States
 2009,GB,United Kingdom,issued,VN,Vietnam,4,2137396.19,ML21a; ML22; ML7g; PL5017,,,DE,Germany
-2009,GB,United Kingdom,issued,CA; CY; AE; IT; JO; KR; LA; MO; ML; UA; SG; ZA; CH; TH,Canada; Cyprus; United Arab Emirates; Italy; Jordan; South Korea; Lao; Macao; Mali; Ukraine; Singapore; South Africa; Switzerland; Thailand,1,,ML21a; ML22a; ML4a; ML4b,,,IT; ML,Italy; Mali
-2009,GB,United Kingdom,issued,IQ,Iraq,2,,ML1a; ML1d; ML2a; MLc,,,,Worldwide (excluding embargoed countries)
+2009,GB,United Kingdom,issued,CA; CY; AE; IT; JO; KR; ML; UA; SG; ZA; CH; TH,Canada; Cyprus; United Arab Emirates; Italy; Jordan; South Korea; Mali; Ukraine; Singapore; South Africa; Switzerland; Thailand,1,,ML21a; ML22a; ML4a; ML4b,,,IT; ML,Italy; Mali
+2009,GB,United Kingdom,issued,IQ,Iraq,2,,ML1a; ML1d; ML2a; MLc,,,,Worldwide
 2009,GB,United Kingdom,issued,; FR; KR; KW; OM,European Union; France; South Korea; Kuwait; Oman,1,,ML10b,,,ZA,South Africa
 2009,BG,Bulgaria,refused,CU,Cuba,1,469830.0,ML11,227,,,
 2009,GB,United Kingdom,refused,CM,Cameroon,1,987374.0,ML3a,987374,,CZ,Czech Republic
@@ -699,3 +699,391 @@
 2012,GB,United Kingdom,refused,NP,Nepal,,5195,ML1d,,,US,United States
 2012,GB,United Kingdom,refused,CG,Congo,,201366,ML3a,,,HR,Croatia
 2012,GB,United Kingdom,refused,CG,Congo,,124300,ML3a,,,HR,Croatia
+[u'AUSTRIA', 'issued', [u'Canada'], 2, [u'1', u'5', u'0', u'00', u'', u'000'], [u'ML 2\nML 3\nML 12'], [u'10\n19', u'', u'000\n2'], [u'1', u'5', u'0', u'00', u'', u'000'], [u'Russia']]
+[u'BULGARIA', 'issued', [u'Tajikistan'], 1, [u'24', u'', u'370,00 EUR'], [u'ML1'], [u'200 pcs'], [u'24', u'', u'370,00 EUR'], [u'Serbia']]
+[u'BULGARIA', 'issued', [u'Kenya'], 1, [u'1', u'3', u'07', u'', u'122,70 EUR'], [u'ML1'], [u'193 pcs'], [u'1', u'3', u'07', u'', u'122,70 EUR'], [u'USA']]
+[u'BULGARIA', 'issued', [u'USA'], 1, [u'3', u'62', u'', u'325,08 EUR'], [u'ML3'], [u'2', u'7', u'72', u'', u'000 pcs'], [u'3', u'62', u'', u'325,08 EUR'], [u'FYROM']]
+[u'BULGARIA', 'issued', [u'Korea, Republic of'], 1, [u'16', u'', u'752,00 EUR'], [u'ML3'], [u'50', u'', u'400 pcs'], [u'16', u'', u'752,00 EUR'], [u'Ukraine']]
+[u'CROATIA', 'issued', [u'SLOVAKIA'], 1, [u'60', u'', u'600,00 USD'], [u'ML 1 a.'], [u'300'], [u'60', u'', u'600,00 USD'], [u'Bosnia and Herzegovina']]
+[u'CROATIA', 'issued', [u'AUSTRIA'], 1, [u'37', u'', u'920,00 USD'], [u'ML 1 b.'], [u'316'], [u'37', u'', u'920,00 USD'], [u'Bosnia and Herzegovina']]
+[u'CZECH REPUBLIC', 'issued', [u'United Arab Emirates'], 4, [u'14', u'', u'343 EUR'], [u'10'], [u'10 PCE'], [u'8', u'', u'350 EUR'], [u'Russia']]
+[u'CZECH REPUBLIC', 'issued', [u'Bangladesh'], 7, [u'1', u'38', u'', u'193 EUR'], [u'10'], [u'1', u'', u'620 PCE'], [u'1', u'01', u'', u'846 EUR'], [u'UK, Latvia, Russia']]
+[u'CZECH REPUBLIC', 'issued', [u'Egypt'], 2, [u'1', u'51', u'', u'414 EUR'], [u'6'], [u'95 PCE'], [u'57', u'', u'915 EUR'], [u'Ukraine']]
+[u'CZECH REPUBLIC', 'issued', [], None, [], [u'11'], [u'190 PCE'], [], [u'Ukraine']]
+[u'CZECH REPUBLIC', 'issued', [u'Ethiopia'], 1, [u'13', u'', u'445 EUR'], [u'10'], [u'185 NAR'], [u'13', u'', u'145 EUR'], [u'Russia']]
+[u'CZECH REPUBLIC', 'issued', [u'Georgia'], 2, [u'21', u'', u'590 EUR'], [u'1'], [u'31 SET'], [u'22', u'', u'191 EUR'], [u'USA']]
+[u'CZECH REPUBLIC', 'issued', [], None, [], [u'15'], [u'4 PCE'], [], [u'USA']]
+[u'CZECH REPUBLIC', 'issued', [u'Indonesia'], 4, [u'40', u'', u'071 EUR'], [u'10'], [u'29 PCE'], [u'32', u'', u'277 EUR'], [u'Latvia']]
+[u'CZECH REPUBLIC', 'issued', [u'Kenya'], 2, [u'6', u'08', u'', u'134 EUR'], [u'3'], [u'1', u'00', u'', u'000 PCE'], [u'86', u'', u'208 EUR'], [u'Bosnia and Herzegovina, Ukraine']]
+[u'CZECH REPUBLIC', 'issued', [u'Sri Lanka'], 4, [u'5', u'', u'353 EUR'], [u'10'], [u'5 PCE'], [u'2', u'', u'068 EUR'], [u'Russia']]
+[u'CZECH REPUBLIC', 'issued', [u'Republic of Moldova'], 1, [u'2', u'', u'362 EUR'], [u'1'], [u'24 SET'], [u'2', u'', u'818 EUR'], [u'USA']]
+[u'CZECH REPUBLIC', 'issued', [u'Nigeria'], 1, [u'2', u'', u'768 EUR'], [u'13'], [u'\u2014'], [u'0 EUR'], [u'China']]
+[u'CZECH REPUBLIC', 'issued', [u'Thailand'], 4, [u'1', u'17', u'', u'992 EUR'], [u'10'], [u'6 PCE'], [u'7', u'', u'010 EUR'], [u'Israel, USA']]
+[u'CZECH REPUBLIC', 'issued', [u'Vietnam'], 1, [u'1', u'7', u'31', u'', u'188 EUR'], [u'6'], [u'\u2014'], [u'0 EUR'], [u'Bulgaria']]
+[u'CYPRUS', 'issued', [u'Ukraine'], 6, [u'9', u'36', u'', u'153'], [u'ML 10'], [u'8', u'', u'085'], [u'9', u'36', u'', u'153'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Yemen'], 1, [u'8', u'92', u'', u'969'], [u'ML 10'], [u'1', u'', u'050'], [u'8', u'92', u'', u'969'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Burundi'], 1, [u'3', u'98', u'', u'516'], [u'ML1, 3, 4'], [], [u'3', u'98', u'', u'516'], [u'Serbia']]
+[u'CYPRUS', 'issued', [u'Burundi'], 1, [u'1', u'54', u'', u'050'], [u'Ml1'], [u'50'], [u'1', u'54', u'', u'050'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'USA'], 1, [u'2', u'76', u'', u'500'], [u'ML3'], [u'1', u'0', u'0', u'00', u'', u'000'], [u'2', u'76', u'', u'500'], [u'Ukraine']]
+[u'CYPRUS', 'issued', [u'Kazakhstan'], 2, [u'1', u'88', u'', u'746'], [u'ML 10'], [u'3', u'', u'450'], [u'1', u'88', u'', u'746'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Equatorial Guinea'], 1, [u'1', u'46', u'', u'235'], [u'ML 10'], [u'459'], [u'1', u'46', u'', u'235'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Peru'], 1, [u'90', u'', u'300'], [u'ML 10'], [u'430'], [u'90', u'', u'300'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Malaysia'], 1, [u'58', u'', u'800'], [u'ML 10'], [u'35'], [u'58', u'', u'800'], [u'Montenegro']]
+[u'CYPRUS', 'issued', [u'Jordan'], 1, [u'51', u'', u'350'], [u'ML 10'], [u'40'], [u'51', u'', u'350'], [u'Montenegro']]
+[u'ESTONIA', 'issued', [u'USA'], 1, [u'7', u'', u'000'], [u'ML10'], [u'29'], [u'7', u'', u'000'], [u'Ukraine']]
+[u'ESTONIA', 'issued', [u'Canada'], 1, [u'1', u'', u'800'], [u'ML10'], [u'1'], [u'1', u'', u'800'], [u'Ukraine']]
+[u'HUNGARY', 'issued', [u'United States of America'], 1, [u'1', u'6', u'9', u'00', u'', u'000 EUR'], [u'ML 3'], [u'12', u'1', u'4', u'48', u'', u'000 pcs'], [u'0'], [u'Ukraine']]
+[u'HUNGARY', 'issued', [u'Lybia'], 1, [u'6', u'7', u'04', u'', u'796 EUR'], [u'ML 1,2,3'], [u'2', u'8', u'81', u'', u'459 pcs'], [u'0'], [u'Ukraine']]
+[u'HUNGARY', 'issued', [u'Netherlands'], 1, [u'4', u'50', u'', u'000 EUR'], [u'ML 4'], [u'5 pcs'], [u'0'], [u'Ukraine']]
+[u'HUNGARY', 'issued', [u'Italy'], 1, [u'6', u'42', u'', u'000 EUR'], [u'ML 4'], [u'10 pcs'], [u'0'], [u'Ukraine']]
+[u'GERMANY', 'issued', [u'Bahrain'], 1, [u'19', u'', u'900 EUR'], [u'ML 7F'], [u'1', u'', u'000 pieces'], [u'19', u'', u'900 EUR'], [u'United States']]
+[u'GERMANY', 'issued', [u'Brazil'], 2, [u'85', u'', u'078 EUR\n16', u'', u'301 EUR\n92', u'', u'000 EUR'], [u'ML 11A\nML 21A\nML 18A'], [u'3 pieces\n3 pieces\n1 piece'], [u'85', u'', u'078 EUR\n16', u'', u'301 EUR\n92', u'', u'000 EUR'], [u'Switzerland\nSwitzerland\nSwitzerland']]
+[u'GERMANY', 'issued', [u'Colombia'], 1, [u'5', u'7', u'00', u'', u'000 EUR'], [u'ML 5'], [u'1 piece'], [u'5', u'7', u'00', u'', u'000 EUR'], [u'South Africa']]
+[u'GERMANY', 'issued', [u'Indonesia'], 1, [u'1', u'43', u'', u'000 EUR'], [u'ML 4C'], [u'5', u'', u'500 pieces'], [u'1', u'43', u'', u'000 EUR'], [u'Turkey']]
+[u'GERMANY', 'issued', [u'Jordan'], 1, [u'70', u'', u'000 EUR'], [u'ML 6A'], [u'1 piece'], [u'70', u'', u'000 EUR'], [u'United Arab Emirates']]
+[u'GERMANY', 'issued', [u'Kazakhstan'], 1, [u'487 EUR'], [u'ML 7F'], [u'14 pairs'], [u'487 EUR'], [u'United States']]
+[u'GERMANY', 'issued', [u'Korea, Republic'], 1, [u'1', u'8', u'34', u'', u'533 EUR'], [u'ML 4B'], [u'400 sets'], [u'1', u'8', u'34', u'', u'533 EUR'], [u'Israel']]
+[u'GERMANY', 'issued', [u'Lebanon'], 1, [u'2', u'7', u'0', u'00', u'', u'000 EUR'], [u'ML 9A'], [u'3 pieces'], [u'2', u'7', u'0', u'00', u'', u'000 EUR'], [u'Singapore']]
+[u'GERMANY', 'issued', [u'Malaysia'], 1, [u'38', u'', u'336 EUR\n3', u'', u'834 EUR'], [u'ML 11A\nML 21A'], [u'1 piece\n1 piece'], [u'38', u'', u'336 EUR\n3', u'', u'834 EUR'], [u'Switzerland\nSwitzerland']]
+[u'GERMANY', 'issued', [u'Niger'], 1, [u'2', u'00', u'', u'000 EUR'], [u'ML 6B'], [u'1 piece'], [u'2', u'00', u'', u'000 EUR'], [u'Colombia']]
+[u'GERMANY', 'issued', [u'Oman'], 2, [u'2', u'00', u'', u'000 EUR\n1', u'', u'125 EUR'], [u'ML 6A\nML 7F'], [u'1 piece\n48 pieces'], [u'2', u'00', u'', u'000 EUR\n1', u'', u'125 EUR'], [u'United Arab Emirates;\nUnited States']]
+[u'GERMANY', 'issued', [u'Saudi Arabia'], 1, [u'0 EUR\n5', u'0', u'00', u'', u'000 EUR'], [u'ML 11A\nML 21B'], [u'1 piece\n1 piece'], [u'0 EUR\n5', u'0', u'00', u'', u'000 EUR'], [u'South Africa\nSouth Africa']]
+[u'GERMANY', 'issued', [u'South Africa'], 8, [u'3', u'06', u'', u'601 EUR'], [u'ML 6A'], [u'331 pieces'], [u'3', u'06', u'', u'601 EUR'], [u'Israel']]
+[u'GERMANY', 'issued', [u'Turkey'], 2, [u'5', u'00', u'', u'000 EUR\n1', u'32', u'', u'000 EUR'], [u'ML 3A\nML 7F'], [u'5', u'00', u'', u'000 pieces\n48 pieces'], [u'5', u'00', u'', u'000 EUR\n1', u'32', u'', u'000 EUR'], [u'United States\nUnited States']]
+[u'GERMANY', 'issued', [u'Turkmenistan'], 1, [u'1', u'4', u'58', u'', u'519 EUR'], [u'ML 11A'], [u'70 pieces'], [u'1', u'4', u'58', u'', u'519 EUR'], [u'Australia']]
+[u'GERMANY', 'issued', [u'United Arab Emirates'], 2, [u'2', u'14', u'', u'560 EUR\n34', u'', u'506 EUR\n14', u'', u'748 EUR'], [u'ML 7F\nML 11A\nML 21A'], [u'72 pieces\n1 piece\n1 piece'], [u'2', u'14', u'', u'560 EUR\n34', u'', u'506 EUR\n14', u'', u'748 EUR'], [u'Norway\nSwitzerland\nSwitzerland']]
+[u'IRELAND', 'issued', [u'Morocco'], 1, [u'1', u'2', u'40', u'', u'000 EUR'], [u'ML11'], [u'8'], [], [u'Germany']]
+[u'LITHUANIA', 'issued', [u'Peru'], 2, [u'4', u'03', u'', u'522 EUR\n11', u'', u'678 EUR'], [u'ML10\nML22'], [u'127\nTraining'], [], [u'Hong Kong\nRussian Federation']]
+[u'LITHUANIA', 'issued', [u'India'], 1, [u'9', u'', u'374 EUR'], [u'ML22'], [u'Training'], [], [u'Russian Federation']]
+[u'NETHERLANDS', 'issued', [u'Multiple countries'], 3, [u'0,00 EUR'], [u'Multiple categories'], [], [], [u'Multiple countries']]
+[u'NETHERLANDS', 'issued', [u'NATO+'], 1, [u'1,00 EUR'], [u'ML10a'], [], [], [u'Unknown']]
+[u'POLAND', 'issued', [u'Egypt'], 2, [u'1', u'4', u'05', u'', u'861,15\n24', u'', u'500,08'], [u'3a\n1a'], [u'39', u'', u'200 pcs\n2', u'', u'220 pcs'], [u'1', u'8', u'06', u'', u'210,00\n31', u'', u'477,00'], [u'Bulgaria\nBulgaria']]
+[u'POLAND', 'issued', [u'Mozambique'], 2, [u'2', u'', u'489,72\n80', u'', u'138,78'], [u'10\n10'], [u'4 pcs\n12 pcs'], [u'3', u'', u'200,00\n1', u'02', u'', u'960,00'], [u'India\nIndia']]
+[u'POLAND', 'issued', [u'Arabia Saudi'], 2, [u'1', u'2', u'45', u'', u'357,87\n4', u'2', u'36', u'', u'785,30'], [u'3a\n2,6'], [u'1', u'0', u'0', u'00', u'', u'000 pcs\n2', u'2', u'40', u'', u'500 pcs'], [u'1', u'6', u'00', u'', u'000,00\n5', u'4', u'43', u'', u'300,00'], [u'Serbia\nSerbia']]
+[u'POLAND', 'issued', [u'Iraq'], 1, [u'1', u'2', u'45', u'', u'357,87'], [u'10b'], [u'2 sets'], [u'1', u'6', u'00', u'', u'000,00'], [u'Lithuania']]
+[u'POLAND', 'issued', [u'Kazakhstan'], 2, [u'42', u'', u'809,18\n8', u'03', u'', u'940,77'], [u'13d\n13d'], [u'6', u'', u'800 pcs\n2000 sets'], [u'55', u'', u'000,00\n1', u'0', u'32', u'', u'880,00'], [u'China\nChina']]
+[u'POLAND', 'issued', [u'India'], 1, [u'2', u'35', u'', u'718,22'], [u'6a'], [u'920 pcs'], [u'3', u'02', u'', u'844,00'], [u'Ukraine']]
+[u'POLAND', 'issued', [u'Bangladesh'], 1, [u'855,00'], [u'13c'], [u'3 pcs'], [], [u'Italy']]
+[u'POLAND', 'issued', [u'Bulgaria'], 1, [u'1', u'06', u'', u'002'], [u'10'], [u'9 pcs'], [], [u'Hungary']]
+[u'PORTUGAL', 'issued', [u'Ecuador'], 1, [u'1', u'71', u'', u'891,95 EUR'], [u'10'], [u'3', u'', u'740'], [u'1', u'71', u'', u'891,95 EUR'], [u'United Sates of America']]
+[u'SWEDEN', 'issued', [u'Australia'], 3, [], [u'5'], [], [], [u'United Kingdom']]
+[u'SWEDEN', 'issued', [u'Denmark'], 1, [], [u'3'], [], [], [u'Canada']]
+[u'SWEDEN', 'issued', [u'Denmark'], 1, [], [u'1'], [], [], [u'USA']]
+[u'SWEDEN', 'issued', [u'Finland'], 1, [], [u'2'], [], [], [u'United Kingdom']]
+[u'SWEDEN', 'issued', [u'Germany'], 1, [], [u'3'], [], [], [u'Norway']]
+[u'SWEDEN', 'issued', [u'Germany'], 1, [], [u'3'], [], [], [u'Denmark']]
+[u'SWEDEN', 'issued', [u'India'], 1, [], [u'8'], [], [], [u'France']]
+[u'SWEDEN', 'issued', [u'Multiple countries'], 1, [], [u'2, 14, 18, 21, 22'], [], [], [u'Multiple countries']]
+[u'SWEDEN', 'issued', [u'Thailand'], 1, [], [u'11'], [], [], [u'United Kingdom']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'1'], [u'ML4a'], [], [], [u'Bulgaria']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'2', u'1', u'00', u'', u'000'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'1', u'4', u'95', u'', u'904'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'7', u'28', u'', u'659'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'1'], [u'ML1a, PL5017'], [], [], [u'Romania']]
+[u'UNITED KINGDOM', 'issued', [u'Afghanistan'], 1, [u'1'], [u'ML1a, ML1d, ML22a, PL5017'], [], [], [u'Romania']]
+[u'UNITED KINGDOM', 'issued', [u'Belize'], 1, [u'45', u'', u'562'], [u'ML3a'], [], [], [u'Bosnia & Herzegovina']]
+[u'UNITED KINGDOM', 'issued', [u'Bosnia and Herzegovina'], 1, [u'761'], [u'ML1a, ML1d, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Brazil'], 1, [u'5', u'', u'480'], [u'ML13c, ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Brazil'], 1, [u'93', u'', u'750'], [u'ML13c, ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Brazil'], 1, [u'2', u'36', u'', u'868'], [u'ML1a, ML1d, ML22a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Brunei'], 1, [u'5', u'24', u'', u'135,15'], [u'ML1d'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Cambodia'], 1, [u'32', u'', u'300'], [u'ML4b1'], [], [], [u'Angola']]
+[u'UNITED KINGDOM', 'issued', [u'Central African Republic'], 1, [u'2', u'38', u'', u'704'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Chile'], 1, [u'5', u'33', u'', u'000'], [u'ML3a'], [], [], [u'Singapore']]
+[u'UNITED KINGDOM', 'issued', [u'China'], 1, [u'9', u'', u'640'], [u'ML13c, ML13d1, ML13d2'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Colombia'], 1, [u'1', u'12', u'', u'140\n\n\n2', u'12', u'', u'265'], [u'ML13d1\n\n\nML13d1'], [], [], [u'Sri Lanka\n\n\nUnited States']]
+[u'UNITED KINGDOM', 'issued', [u'Colombia'], 1, [u'3', u'24', u'', u'405'], [u'ML13d1'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Croatia'], 1, [u'8', u'45', u'', u'700,30'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Croatia'], 1, [u'9', u'72', u'', u'294,17'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Denmark'], 1, [u'10', u'', u'640'], [u'ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Djibouti'], 1, [u'2', u'28', u'', u'800'], [u'ML13c, ML13d1, ML13d2, ML1a, ML1d, ML3a'], [], [], [u'Madagascar']]
+[u'UNITED KINGDOM', 'issued', [u'Djibouti'], 1, [u'2', u'28', u'', u'800'], [u'ML13c, ML13d1, ML1a, ML1d, ML3a'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Dubai'], 1, [u'1', u'65', u'', u'756,09'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Germany'], 1, [u'12', u'', u'338,96'], [u'ML11a'], [], [], [u'Australia']]
+[u'UNITED KINGDOM', 'issued', [u'Germany'], 1, [u'1', u'6', u'4', u'75', u'', u'497'], [u'ML4a'], [], [], [u'Japan']]
+[u'UNITED KINGDOM', 'issued', [u'India'], 1, [u'5', u'', u'000'], [u'ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Iraq'], 1, [u'98', u'', u'000'], [u'ML13c, ML13d'], [], [], [u'China']]
+[u'UNITED KINGDOM', 'issued', [u'Iraq'], 1, [u'22', u'4', u'5', u'83', u'', u'933,72'], [u'ML11a, ML14, ML1a, ML2a, ML6a, PL5017'], [], [], [u'Ukraine']]
+[u'UNITED KINGDOM', 'issued', [u'Iraq'], 1, [u'1', u'7', u'39', u'', u'375'], [u'ML6b1'], [], [], [u'United Arab Emirates']]
+[u'UNITED KINGDOM', 'issued', [u'Israel'], 1, [u'1', u'4', u'91', u'', u'371,88'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Israel'], 1, [u'97', u'', u'000'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Israel'], 1, [u'7', u'', u'097'], [u'ML13c, ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Kenya'], 1, [u'3', u'42', u'', u'703'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Kuwait'], 1, [u'6', u'89', u'', u'818,23'], [u'ML4a'], [], [], [u'Serbia']]
+[u'UNITED KINGDOM', 'issued', [u'Kuwait'], 1, [u'7', u'08', u'', u'155'], [u'ML14'], [], [], [u'United Arab Emirates']]
+[u'UNITED KINGDOM', 'issued', [u'Laos'], 1, [u'67', u'', u'485'], [u'ML6b1'], [], [], [u'Thailand']]
+[u'UNITED KINGDOM', 'issued', [u'Lebanon'], 1, [u'1', u'5', u'25', u'', u'173,30'], [u'ML11a, ML21a, ML6a, PL5017'], [], [], [u'Australia']]
+[u'UNITED KINGDOM', 'issued', [u'Lebanon'], 1, [u'1', u'26', u'', u'000'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'2', u'14', u'', u'785'], [u'ML11a'], [], [], [u'Australia']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'37', u'', u'077,31'], [u'ML13c, ML13d1, ML13d2'], [], [], [u'Cambodia']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'6', u'9', u'02', u'', u'476'], [u'ML6a'], [], [], [u'Canada']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'1', u'35', u'', u'803'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'1', u'35', u'', u'803'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'1', u'35', u'', u'803'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'2', u'95', u'', u'000'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Libya'], 1, [u'50'], [u'ML4b1'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Lithuania'], 1, [u'57', u'', u'881,80'], [u'ML3a'], [], [], [u'Bosnia & Herzegovina']]
+[u'UNITED KINGDOM', 'issued', [u'Lithuania'], 1, [u'57', u'', u'881,80'], [u'ML3a'], [], [], [u'Bosnia & Herzegovina']]
+[u'UNITED KINGDOM', 'issued', [u'Malaysia'], 1, [u'1', u'', u'440'], [u'ML5b'], [], [], [u'Taiwan']]
+[u'UNITED KINGDOM', 'issued', [u'Malaysia'], 1, [u'1', u'', u'615'], [u'ML5b'], [], [], [u'Taiwan']]
+[u'UNITED KINGDOM', 'issued', [u'Mali'], 1, [u'2', u'38', u'', u'704'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Mauritius'], 1, [u'36', u'', u'750'], [u'ML4a, ML4b1'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Morocco'], 1, [u'7', u'03', u'', u'000'], [u'ML3a, ML4a, ML4b1, ML8a21a'], [], [], [u'France']]
+[u'UNITED KINGDOM', 'issued', [u'Morocco'], 1, [u'3', u'7', u'63', u'', u'800'], [u'ML3a, ML4a'], [], [], [u'Romania']]
+[u'UNITED KINGDOM', 'issued', [u'Niger'], 1, [u'2', u'38', u'', u'704'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Nigeria'], 1, [u'50', u'', u'895'], [u'ML3a'], [], [], [u'Switzerland']]
+[u'UNITED KINGDOM', 'issued', [u'Nigeria'], 1, [u'7', u'', u'207'], [u'ML1a'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Norway'], 1, [u'1', u'', u'600'], [u'ML3a'], [], [], [u'Finland']]
+[u'UNITED KINGDOM', 'issued', [u'Norway'], 1, [u'13', u'1', u'8', u'88', u'', u'626'], [u'ML4a'], [], [], [u'Japan']]
+[u'UNITED KINGDOM', 'issued', [u'Norway'], 1, [u'0'], [u'ML22a'], [], [], [u'Non Specific Country']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'40', u'', u'000'], [u'ML3a, ML5a'], [], [], [u'Germany']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'35', u'', u'633'], [u'ML1a, ML1d, ML22a, ML2a, PL5017'], [], [], [u'Germany']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'6,40'], [u'ML1a'], [], [], [u'Germany']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'6,40'], [u'ML1a'], [], [], [u'Germany']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'40', u'', u'000'], [u'ML3a, ML5a'], [], [], [u'Norway']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'1', u'', u'935'], [u'ML1a, ML22a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'2', u'', u'783'], [u'ML1a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'9', u'50', u'', u'045'], [u'ML1a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'53', u'', u'244'], [u'ML2a'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'1', u'65', u'', u'565'], [u'ML1a'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Oman'], 1, [u'39', u'', u'040'], [u'ML3a'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'1', u'6', u'35', u'', u'000'], [u'ML3a'], [], [], [u'Brazil']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'24', u'', u'000'], [u'ML3a'], [], [], [u'Bulgaria']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'22', u'', u'508,76'], [u'ML13d1'], [], [], [u'Canada']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'23', u'', u'796'], [u'ML13a1'], [], [], [u'Finland']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'8', u'9', u'66', u'', u'478'], [u'ML6a'], [], [], [u'Slovakia']]
+[u'UNITED KINGDOM', 'issued', [u'Pakistan'], 1, [u'40', u'', u'000'], [u'ML1a, ML1d'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Russia'], 1, [u'1', u'1', u'20', u'', u'000'], [u'ML9a1'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Saudi Arabia'], 1, [u'3', u'9', u'55', u'', u'866,33'], [u'ML3a'], [], [], [u'Bosnia & Herzegovina']]
+[u'UNITED KINGDOM', 'issued', [u'Saudi Arabia'], 1, [u'1', u'9', u'00', u'', u'800'], [u'ML3a'], [], [], [u'Brazil']]
+[u'UNITED KINGDOM', 'issued', [u'Serbia'], 1, [u'5', u'7', u'72', u'', u'273,83'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Sierra Leone'], 1, [u'53', u'', u'320'], [u'ML11a, ML21a, ML22a'], [], [], [u'Australia']]
+[u'UNITED KINGDOM', 'issued', [u'Singapore'], 1, [u'6', u'', u'682,50'], [u'ML5b'], [], [], [u'Taiwan']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'4', u'41', u'', u'000'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'15', u'', u'790'], [u'ML13c, ML13d1'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'4', u'31', u'', u'354'], [u'ML1d, ML6a'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'7', u'', u'560'], [u'ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'3', u'', u'533,79'], [u'ML13c, ML13d1, ML13d2'], [], [], [u'United Arab Emirates']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'1', u'87', u'', u'245,30'], [u'ML6b1'], [], [], [u'United Arab Emirates']]
+[u'UNITED KINGDOM', 'issued', [u'Somalia'], 1, [u'14', u'', u'400'], [u'ML13d1, ML13d2'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Sri Lanka'], 1, [u'6', u'', u'375,84'], [u'ML13c, ML13d1, ML13d2, ML15c, ML1a, ML1d, ML3a'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Sudan'], 1, [u'8', u'', u'450'], [u'ML13d'], [], [], [u'Zimbabwe']]
+[u'UNITED KINGDOM', 'issued', [u'Syria'], 1, [u'1', u'05', u'', u'162'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Syria'], 1, [u'9', u'19', u'', u'432'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Syria'], 1, [u'1', u'17', u'', u'783'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Syria'], 1, [u'3', u'37', u'', u'500'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Syria'], 1, [u'7', u'84', u'', u'080'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Taiwan'], 1, [u'29', u'', u'880'], [u'ML13d'], [], [], [u'South Africa']]
+[u'UNITED KINGDOM', 'issued', [u'Thailand'], 1, [u'5', u'34', u'', u'000'], [u'ML2a'], [], [], [u'Turkey']]
+[u'UNITED KINGDOM', 'issued', [u'Timor-Leste'], 1, [u'3', u'68', u'', u'233,62'], [u'ML1a, ML3a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Timor-Leste'], 1, [u'1', u'94', u'', u'495,12'], [u'ML1a, ML3a, PL5017'], [], [], [u'United States']]
+[u'UNITED KINGDOM', 'issued', [u'Turkey'], 1, [u'1', u'', u'000'], [u'ML4b1'], [], [], [u'Czech Republic']]
+[u'UNITED KINGDOM', 'issued', [u'Turkey'], 1, [u'14', u'', u'023,18'], [u'ML3a'], [], [], [u'Czech Republic']]
+[u'UNITED KINGDOM', 'issued', [u'Turkey'], 1, [u'1', u'26', u'', u'922'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Turkey'], 1, [u'3', u'86', u'', u'376'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'United States'], 1, [u'29', u'', u'245'], [u'ML13d2'], [], [], [u'China']]
+[u'UNITED KINGDOM', 'issued', [u'Uruguay'], 1, [u'5', u'61', u'', u'245,21'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Vessel, Platform in International Waters'], 1, [u'4', u'', u'100'], [u'ML13d1, ML13d2, ML1a, ML3a'], [], [], [u'Vessel, Platform in International Waters']]
+[u'UNITED KINGDOM', 'issued', [u'Vietnam'], 1, [u'1', u'73', u'', u'973,25'], [u'ML1d'], [], [], [u'Belarus']]
+[u'UNITED KINGDOM', 'issued', [u'Vietnam'], 1, [u'6', u'', u'977,06'], [u'ML11a'], [], [], [u'Israel']]
+[u'UNITED KINGDOM', 'issued', [u'Yemen'], 1, [u'1', u'29', u'', u'992'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'UNITED KINGDOM', 'issued', [u'Yemen'], 1, [u'2', u'18', u'', u'494'], [u'ML6b1'], [], [], [u'Jordan']]
+[u'HUNGARY', 'refused', [u'Egypt'], 3, [], [u'ML 6.'], [], [u'0'], [u'Ukraine']]
+[u'UNITED KINGDOM', 'refused', [u'Azerbaijan'], 1, [u'73', u'', u'458'], [u'ML13c, ML13d1, PL5001b'], [], [], [u'Canada']]
+[u'UNITED KINGDOM', 'refused', [u'Azerbaijan'], 1, [u'2', u'5', u'30', u'', u'035,08'], [u'ML13b, ML6a'], [], [], [u'Ukraine']]
+[u'UNITED KINGDOM', 'refused', [u'Bahrain'], 1, [u'92', u'', u'711,39'], [u'ML3a'], [], [], [u'Serbia']]
+[u'UNITED KINGDOM', 'refused', [u'Libya'], 1, [u'5', u'00', u'', u'000\n\n\n1', u'2', u'17', u'', u'162\n\n\n3', u'7', u'00', u'', u'711'], [u'ML15c\n\n\nML13d\n\n\nML13c, ML13d'], [], [], [u'Canada\n\n\nChina\n\n\nKorea, Republic of']]
+[u'UNITED KINGDOM', 'refused', [u'South Sudan'], 1, [u'1', u'13', u'', u'628'], [u'ML6b1'], [], [], [u'Thailand']]
+2013,AT,Austria,issued,CA,Canada,2,15000000,ML2; ML3; ML12,10190002,15000000,RU,Russia
+2013,BG,Bulgaria,issued,TJ,Tajikistan,1,24370,ML1,200 pcs,24370,RS,Serbia
+2013,BG,Bulgaria,issued,KE,Kenya,1,1307122,ML1,193 pcs,1307122,US,United States
+2013,BG,Bulgaria,issued,US,United States,1,362325,ML3,2772; ; 000 pcs,362325,MK,Macedonia
+2013,BG,Bulgaria,issued,KR,South Korea,1,16752,ML3,50; ; 400 pcs,16752,UA,Ukraine
+2013,HR,Croatia,issued,SK,Slovakia,1,45641.496,ML1a.,300,45641.496,BA,Bosnia & Herzegovina
+2013,HR,Croatia,issued,AT,Austria,1,28559.8272,ML1b.,316,28559.8272,BA,Bosnia & Herzegovina
+2013,CZ,Czech Republic,issued,AE,United Arab Emirates,4,14343,ML10,10 PCE,8350,RU,Russia
+2013,CZ,Czech Republic,issued,BD,Bangladesh,7,138193,ML10,1; ; 620 PCE,101846,GB; LV; RU,United Kingdom; Latvia; Russia
+2013,CZ,Czech Republic,issued,EG,Egypt,2,151414,ML6; ML11,95 PCE; 190 PCE,57915,UA; UA,Ukraine; Ukraine
+2013,CZ,Czech Republic,issued,ET,Ethiopia,1,13445,ML10,185 NAR,13145,RU,Russia
+2013,CZ,Czech Republic,issued,GE,Georgia,2,21590,ML1; ML15,31 SET; 4 PCE,22191,US; US,United States; United States
+2013,CZ,Czech Republic,issued,ID,Indonesia,4,40071,ML10,29 PCE,32277,LV,Latvia
+2013,CZ,Czech Republic,issued,KE,Kenya,2,608134,ML3,100; ; 000 PCE,86208,BA; UA,Bosnia & Herzegovina; Ukraine
+2013,CZ,Czech Republic,issued,LK,Sri Lanka,4,5353,ML10,5 PCE,2068,RU,Russia
+2013,CZ,Czech Republic,issued,MD,Moldova,1,2362,ML1,24 SET,2818,US,United States
+2013,CZ,Czech Republic,issued,NG,Nigeria,1,2768,ML13,,0,CN,China
+2013,CZ,Czech Republic,issued,TH,Thailand,4,117992,ML10,6 PCE,7010,IL; US,Israel; United States
+2013,CZ,Czech Republic,issued,VN,Vietnam,1,1731188,ML6,,0,BG,Bulgaria
+2013,CY,Cyprus,issued,UA,Ukraine,6,936153,ML10,8085,936153,ME,Montenegro
+2013,CY,Cyprus,issued,YE,Yemen,1,892969,ML10,1050,892969,ME,Montenegro
+2013,CY,Cyprus,issued,BI,Burundi,1,398516,ML134,,398516,RS,Serbia
+2013,CY,Cyprus,issued,BI,Burundi,1,154050,MLMl1,50,154050,ME,Montenegro
+2013,CY,Cyprus,issued,US,United States,1,276500,ML3,10000000,276500,UA,Ukraine
+2013,CY,Cyprus,issued,KZ,Kazakhstan,2,188746,ML10,3450,188746,ME,Montenegro
+2013,CY,Cyprus,issued,GQ,Equatorial Guinea,1,146235,ML10,459,146235,ME,Montenegro
+2013,CY,Cyprus,issued,PE,Peru,1,90300,ML10,430,90300,ME,Montenegro
+2013,CY,Cyprus,issued,MY,Malaysia,1,58800,ML10,35,58800,ME,Montenegro
+2013,CY,Cyprus,issued,JO,Jordan,1,51350,ML10,40,51350,ME,Montenegro
+2013,EE,Estonia,issued,US,United States,1,7000,ML10,29,7000,UA,Ukraine
+2013,EE,Estonia,issued,CA,Canada,1,1800,ML10,1,1800,UA,Ukraine
+2013,HU,Hungary,issued,US,United States,1,16900000,ML3,121448; ; 000 pcs,0,UA,Ukraine
+2013,HU,Hungary,issued,LY,Libya,1,6704796,ML123,2881; ; 459 pcs,0,UA,Ukraine
+2013,HU,Hungary,issued,NL,Netherlands,1,450000,ML4,5 pcs,0,UA,Ukraine
+2013,HU,Hungary,issued,IT,Italy,1,642000,ML4,10 pcs,0,UA,Ukraine
+2013,DE,Germany,issued,BH,Bahrain,1,19900,ML7F,1; ; 000 pieces,19900,US,United States
+2013,DE,Germany,issued,BR,Brazil,2,,,,,,
+2013,DE,Germany,issued,CO,Colombia,1,5700000,ML5,1 piece,5700000,ZA,South Africa
+2013,DE,Germany,issued,ID,Indonesia,1,143000,ML4C,5; ; 500 pieces,143000,TR,Turkey
+2013,DE,Germany,issued,JO,Jordan,1,70000,ML6A,1 piece,70000,AE,United Arab Emirates
+2013,DE,Germany,issued,KZ,Kazakhstan,1,487,ML7F,14 pairs,487,US,United States
+2013,DE,Germany,issued,KR,South Korea,1,1834533,ML4B,400 sets,1834533,IL,Israel
+2013,DE,Germany,issued,LB,Lebanon,1,27000000,ML9A,3 pieces,27000000,SG,Singapore
+2013,DE,Germany,issued,MY,Malaysia,1,,,,,,
+2013,DE,Germany,issued,NE,Niger,1,200000,ML6B,1 piece,200000,CO,Colombia
+2013,DE,Germany,issued,OM,Oman,2,,,,,,
+2013,DE,Germany,issued,SA,Saudi Arabia,1,,,,,,
+2013,DE,Germany,issued,ZA,South Africa,8,306601,ML6A,331 pieces,306601,IL,Israel
+2013,DE,Germany,issued,TR,Turkey,2,,,,,,
+2013,DE,Germany,issued,TM,Turkmenistan,1,1458519,ML11A,70 pieces,1458519,AU,Australia
+2013,DE,Germany,issued,AE,United Arab Emirates,2,,,,,,
+2013,IE,Ireland,issued,MA,Morocco,1,1240000,ML11,8,,DE,Germany
+2013,LT,Lithuania,issued,PE,Peru,2,,,127Training,,,
+2013,LT,Lithuania,issued,IN,India,1,9374,ML22,Training,,RU,Russia
+2013,NL,Netherlands,issued,,Multiple countries,3,0,MLMultiple categories,,,,Multiple countries
+2013,NL,Netherlands,issued,,NATO+,1,1,ML10a,,,,Unknown
+2013,PL,Poland,issued,EG,Egypt,2,,,,,,
+2013,PL,Poland,issued,MZ,Mozambique,2,,,,,,
+2013,PL,Poland,issued,SA,Saudi Arabia,2,,,,,,
+2013,PL,Poland,issued,IQ,Iraq,1,1245357,ML10b,2 sets,1600000,LT,Lithuania
+2013,PL,Poland,issued,KZ,Kazakhstan,2,,,,,,
+2013,PL,Poland,issued,IN,India,1,235718,ML6a,920 pcs,302844,UA,Ukraine
+2013,PL,Poland,issued,BD,Bangladesh,1,855,ML13c,3 pcs,,IT,Italy
+2013,PL,Poland,issued,BG,Bulgaria,1,106002,ML10,9 pcs,,HU,Hungary
+2013,PT,Portugal,issued,EC,Ecuador,1,171891,ML10,3740,171891,US,United States
+2013,SE,Sweden,issued,AU,Australia,3,,ML5,,,GB,United Kingdom
+2013,SE,Sweden,issued,DK,Denmark,1,,ML3,,,CA,Canada
+2013,SE,Sweden,issued,DK,Denmark,1,,ML1,,,US,United States
+2013,SE,Sweden,issued,FI,Finland,1,,ML2,,,GB,United Kingdom
+2013,SE,Sweden,issued,DE,Germany,1,,ML3,,,NO,Norway
+2013,SE,Sweden,issued,DE,Germany,1,,ML3,,,DK,Denmark
+2013,SE,Sweden,issued,IN,India,1,,ML8,,,FR,France
+2013,SE,Sweden,issued,,Multiple countries,1,,"ML2, 14, 18, 21, 22",,,,Multiple countries
+2013,SE,Sweden,issued,TH,Thailand,1,,ML11,,,GB,United Kingdom
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,1,ML4a,,,BG,Bulgaria
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,2100000,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,1495904,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,728659,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,1,ML1aPL5017,,,RO,Romania
+2013,GB,United Kingdom,issued,AF,Afghanistan,1,1,ML1a; ML1d; ML22aPL5017,,,RO,Romania
+2013,GB,United Kingdom,issued,BZ,Belize,1,45562,ML3a,,,BA,Bosnia & Herzegovina
+2013,GB,United Kingdom,issued,BA,Bosnia & Herzegovina,1,761,ML1a; ML1dPL5017,,,US,United States
+2013,GB,United Kingdom,issued,BR,Brazil,1,5480,ML13c; ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,BR,Brazil,1,93750,ML13c; ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,BR,Brazil,1,236868,ML1a; ML1d; ML22aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,BN,Brunei Darussalam,1,524135,ML1d,,,US,United States
+2013,GB,United Kingdom,issued,KH,Cambodia,1,32300,ML4b1,,,AO,Angola
+2013,GB,United Kingdom,issued,CF,Central African Republic,1,238704,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,CL,Chile,1,533000,ML3a,,,SG,Singapore
+2013,GB,United Kingdom,issued,CN,China,1,9640,ML13c; ML13d1; ML13d2,,,ZA,South Africa
+2013,GB,United Kingdom,issued,CO,Colombia,1,,,,,LK; ; ; US,Sri Lanka; ; ; United States
+2013,GB,United Kingdom,issued,CO,Colombia,1,324405,ML13d1,,,US,United States
+2013,GB,United Kingdom,issued,HR,Croatia,1,845700,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,HR,Croatia,1,972294,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,DK,Denmark,1,10640,ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,DJ,Djibouti,1,228800,ML13c; ML13d1; ML13d2; ML1a; ML1d; ML3a,,,MG,Madagascar
+2013,GB,United Kingdom,issued,DJ,Djibouti,1,228800,ML13c; ML13d1; ML1a; ML1d; ML3a,,,ZA,South Africa
+2013,GB,United Kingdom,issued,,Dubai,1,165756,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,DE,Germany,1,12338,ML11a,,,AU,Australia
+2013,GB,United Kingdom,issued,DE,Germany,1,16475497,ML4a,,,JP,Japan
+2013,GB,United Kingdom,issued,IN,India,1,5000,ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,IQ,Iraq,1,98000,ML13c; ML13d,,,CN,China
+2013,GB,United Kingdom,issued,IQ,Iraq,1,224583933,ML11a; ML14; ML1a; ML2a; ML6aPL5017,,,UA,Ukraine
+2013,GB,United Kingdom,issued,IQ,Iraq,1,1739375,ML6b1,,,AE,United Arab Emirates
+2013,GB,United Kingdom,issued,IL,Israel,1,1491371,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,IL,Israel,1,97000,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,IL,Israel,1,7097,ML13c; ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,KE,Kenya,1,342703,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,KW,Kuwait,1,689818,ML4a,,,RS,Serbia
+2013,GB,United Kingdom,issued,KW,Kuwait,1,708155,ML14,,,AE,United Arab Emirates
+2013,GB,United Kingdom,issued,LA,Lao,1,67485,ML6b1,,,TH,Thailand
+2013,GB,United Kingdom,issued,LB,Lebanon,1,1525173,ML11a; ML21a; ML6aPL5017,,,AU,Australia
+2013,GB,United Kingdom,issued,LB,Lebanon,1,126000,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,LY,Libya,1,214785,ML11a,,,AU,Australia
+2013,GB,United Kingdom,issued,LY,Libya,1,37077,ML13c; ML13d1; ML13d2,,,KH,Cambodia
+2013,GB,United Kingdom,issued,LY,Libya,1,6902476,ML6a,,,CA,Canada
+2013,GB,United Kingdom,issued,LY,Libya,1,135803,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,LY,Libya,1,135803,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,LY,Libya,1,135803,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,LY,Libya,1,295000,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,LY,Libya,1,50,ML4b1,,,ZA,South Africa
+2013,GB,United Kingdom,issued,LT,Lithuania,1,57881,ML3a,,,BA,Bosnia & Herzegovina
+2013,GB,United Kingdom,issued,LT,Lithuania,1,57881,ML3a,,,BA,Bosnia & Herzegovina
+2013,GB,United Kingdom,issued,MY,Malaysia,1,1440,ML5b,,,TW,Taiwan
+2013,GB,United Kingdom,issued,MY,Malaysia,1,1615,ML5b,,,TW,Taiwan
+2013,GB,United Kingdom,issued,ML,Mali,1,238704,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,MU,Mauritius,1,36750,ML4a; ML4b1,,,US,United States
+2013,GB,United Kingdom,issued,MA,Morocco,1,703000,ML3a; ML4a; ML4b1; ML8a21a,,,FR,France
+2013,GB,United Kingdom,issued,MA,Morocco,1,3763800,ML3a; ML4a,,,RO,Romania
+2013,GB,United Kingdom,issued,NE,Niger,1,238704,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,NG,Nigeria,1,50895,ML3a,,,CH,Switzerland
+2013,GB,United Kingdom,issued,NG,Nigeria,1,7207,ML1a,,,US,United States
+2013,GB,United Kingdom,issued,NO,Norway,1,1600,ML3a,,,FI,Finland
+2013,GB,United Kingdom,issued,NO,Norway,1,131888626,ML4a,,,JP,Japan
+2013,GB,United Kingdom,issued,NO,Norway,1,0,ML22a,,,,Non Specific Country
+2013,GB,United Kingdom,issued,OM,Oman,1,40000,ML3a; ML5a,,,DE,Germany
+2013,GB,United Kingdom,issued,OM,Oman,1,35633,ML1a; ML1d; ML22a; ML2aPL5017,,,DE,Germany
+2013,GB,United Kingdom,issued,OM,Oman,1,6,ML1a,,,DE,Germany
+2013,GB,United Kingdom,issued,OM,Oman,1,6,ML1a,,,DE,Germany
+2013,GB,United Kingdom,issued,OM,Oman,1,40000,ML3a; ML5a,,,NO,Norway
+2013,GB,United Kingdom,issued,OM,Oman,1,1935,ML1a; ML22aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,OM,Oman,1,2783,ML1aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,OM,Oman,1,950045,ML1aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,OM,Oman,1,53244,ML2a,,,US,United States
+2013,GB,United Kingdom,issued,OM,Oman,1,165565,ML1a,,,US,United States
+2013,GB,United Kingdom,issued,OM,Oman,1,39040,ML3a,,,US,United States
+2013,GB,United Kingdom,issued,PK,Pakistan,1,1635000,ML3a,,,BR,Brazil
+2013,GB,United Kingdom,issued,PK,Pakistan,1,24000,ML3a,,,BG,Bulgaria
+2013,GB,United Kingdom,issued,PK,Pakistan,1,22508,ML13d1,,,CA,Canada
+2013,GB,United Kingdom,issued,PK,Pakistan,1,23796,ML13a1,,,FI,Finland
+2013,GB,United Kingdom,issued,PK,Pakistan,1,8966478,ML6a,,,SK,Slovakia
+2013,GB,United Kingdom,issued,PK,Pakistan,1,40000,ML1a; ML1d,,,US,United States
+2013,GB,United Kingdom,issued,RU,Russia,1,1120000,ML9a1,,,ZA,South Africa
+2013,GB,United Kingdom,issued,SA,Saudi Arabia,1,3955866,ML3a,,,BA,Bosnia & Herzegovina
+2013,GB,United Kingdom,issued,SA,Saudi Arabia,1,1900800,ML3a,,,BR,Brazil
+2013,GB,United Kingdom,issued,RS,Serbia,1,5772273,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,SL,Sierra Leone,1,53320,ML11a; ML21a; ML22a,,,AU,Australia
+2013,GB,United Kingdom,issued,SG,Singapore,1,6682,ML5b,,,TW,Taiwan
+2013,GB,United Kingdom,issued,SO,Somalia,1,441000,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,SO,Somalia,1,15790,ML13c; ML13d1,,,ZA,South Africa
+2013,GB,United Kingdom,issued,SO,Somalia,1,431354,ML1d; ML6a,,,ZA,South Africa
+2013,GB,United Kingdom,issued,SO,Somalia,1,7560,ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,SO,Somalia,1,3533,ML13c; ML13d1; ML13d2,,,AE,United Arab Emirates
+2013,GB,United Kingdom,issued,SO,Somalia,1,187245,ML6b1,,,AE,United Arab Emirates
+2013,GB,United Kingdom,issued,SO,Somalia,1,14400,ML13d1; ML13d2,,,US,United States
+2013,GB,United Kingdom,issued,LK,Sri Lanka,1,6375,ML13c; ML13d1; ML13d2; ML15c; ML1a; ML1d; ML3a,,,ZA,South Africa
+2013,GB,United Kingdom,issued,SD,Sudan,1,8450,ML13d,,,ZW,Zimbabwe
+2013,GB,United Kingdom,issued,SY,Syria,1,105162,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,SY,Syria,1,919432,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,SY,Syria,1,117783,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,SY,Syria,1,337500,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,SY,Syria,1,784080,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,TW,Taiwan,1,29880,ML13d,,,ZA,South Africa
+2013,GB,United Kingdom,issued,TH,Thailand,1,534000,ML2a,,,TR,Turkey
+2013,GB,United Kingdom,issued,TL,East Timor,1,368233,ML1a; ML3aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,TL,East Timor,1,194495,ML1a; ML3aPL5017,,,US,United States
+2013,GB,United Kingdom,issued,TR,Turkey,1,1000,ML4b1,,,CZ,Czech Republic
+2013,GB,United Kingdom,issued,TR,Turkey,1,14023,ML3a,,,CZ,Czech Republic
+2013,GB,United Kingdom,issued,TR,Turkey,1,126922,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,TR,Turkey,1,386376,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,US,United States,1,29245,ML13d2,,,CN,China
+2013,GB,United Kingdom,issued,UY,Uruguay,1,561245,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,,"Vessel, Platform in International Waters",1,4100,ML13d1; ML13d2; ML1a; ML3a,,,,"Vessel, Platform in International Waters"
+2013,GB,United Kingdom,issued,VN,Vietnam,1,173973,ML1d,,,BY,Belarus
+2013,GB,United Kingdom,issued,VN,Vietnam,1,6977,ML11a,,,IL,Israel
+2013,GB,United Kingdom,issued,YE,Yemen,1,129992,ML6b1,,,JO,Jordan
+2013,GB,United Kingdom,issued,YE,Yemen,1,218494,ML6b1,,,JO,Jordan
+2013,HU,Hungary,refused,EG,Egypt,3,,ML6.,,0,UA,Ukraine
+2013,GB,United Kingdom,refused,AZ,Azerbaijan,1,73458,ML13c; ML13d1PL5001b,,,CA,Canada
+2013,GB,United Kingdom,refused,AZ,Azerbaijan,1,2530035,ML13b; ML6a,,,UA,Ukraine
+2013,GB,United Kingdom,refused,BH,Bahrain,1,92711,ML3a,,,RS,Serbia
+2013,GB,United Kingdom,refused,LY,Libya,1,,ML15c; ML13d; ML13c; ML13d,,,CA; ; ; CN; ; ; KR,Canada; ; ; China; ; ; South Korea
+2013,GB,United Kingdom,refused,SS,South Sudan,1,113628,ML6b1,,,TH,Thailand
