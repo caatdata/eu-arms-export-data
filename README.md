@@ -4,7 +4,7 @@ Figures for all known controlled goods exported from EU member states since 1998
 
 The data is also available via a searchable application on the [Campaign Against Arms Trade](http://www.caat.org.uk/resources/export-licences-eu) website.
 
-Source data from the [Official Journal of the European Union annual reports on the European Union Code of Conduct on Arms Exports](http://eur-lex.europa.eu/Result.do?arg0=annual+report&arg1=exports&arg2=resolution&titre=titre&chlang=en&RechType=RECH_mot&Submit=Search).
+Source data from the [Official Journal of the European Union annual reports on the European Union Code of Conduct on Arms Exports](https://eeas.europa.eu/headquarters/headquarters-homepage/8472/annual-reports-arms-exports_en).
 
 
 ## Explanation
